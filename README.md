@@ -5,7 +5,7 @@ Lot's of folk are leaving Wordpress for a flat file CMS system with no database.
 
 We're not talking about static site generators here, text of xml driven file CMS's..
 
-# What is a Flat-File CMS?
+## What is a Flat-File CMS?
 
 Without a database the flat-file CMS stores content in files and folders unlike a traditional database. This means you don't have to query any database of any kind in your system -  there is no databse. The flat-file system generates dynamic pages and each blog post or page is simply in a folder of it's own (depending on the system and how you structure it).
 
@@ -19,7 +19,7 @@ There are certain advantages of not using a database like:
 * Portability
 * Less expense (server)
 
-# Are they "CMS-Like Systems", shouldn't they be called "Content Publishing Systems"?
+## Are they "CMS-Like Systems", shouldn't they be called "Content Publishing Systems"?
 
 Some people will argue that these flat-file CMS systems aren't real content management systems. Whilst they do let you manage your content they aren't full blown as they don't let you authentication/authorization. The argument is a full blown CMS should somehow be able to grant and deny create/read/update/delete access and permissions to users.
 
@@ -27,7 +27,7 @@ This can be a debatable topic, and this small project's aim to is to introduce y
 
 Personally I am all for Flat-File CMS's. View them below:
 
-## Pico
+### Pico
 
 A stupidly simple & blazing fast, flat file CMS. Making the web easy.
 
@@ -39,7 +39,7 @@ A stupidly simple & blazing fast, flat file CMS. Making the web easy.
 
 **Website:** http://pico.dev7studios.com/index.html
 
-## Kirby
+### Kirby
 
 Kirby is a file-based CMS. Easy to setup, easy to use, flexible as hell
 
@@ -51,7 +51,7 @@ Kirby is a file-based CMS. Easy to setup, easy to use, flexible as hell
 
 **Website:** http://getkirby.com/
 
-## Statmatic
+### Statmatic
 
 An entirely new kind of CMS. Pack up your content, markup, and style. Leave the database behind. Making websites just got fun again.
 
