@@ -63,5 +63,17 @@ An entirely new kind of CMS. Pack up your content, markup, and style. Leave the 
 
 **Website:** http://statamic.com/
 
+### Monstra
+
+An entirely new kind of CMS. Pack up your content, markup, and style. Leave the database behind. Making websites just got fun again.
+
+**Technology:** PHP
+
+**Templating:** Built in
+
+**Formatting:** Markdown
+
+**Website:** http://monstra.org/
+
 
 
