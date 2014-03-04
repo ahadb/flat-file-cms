@@ -7,7 +7,7 @@ We're not talking about static site generators here, text of xml driven file CMS
 
 ## What is a Flat-File CMS?
 
-Without a database the flat-file CMS stores content in files and folders unlike a traditional database. This means you don't have to query any database of any kind in your system -  there is no databse. The flat-file system generates dynamic pages and each blog post or page is simply in a folder of it's own (depending on the system and how you structure it).
+Without a database the flat-file CMS stores content in files and folders unlike a traditional database. This means you don't have to query any database of any kind in your system -  there is no databse. The flat-file system generates dynamic pages and each blog post or page is simply in a folder of it's own (depending on the system and how you structure it). There are several ways to populate and parse content, xml and markdown being the most popular.
 
 There are certain advantages of not using a database like:
 
@@ -74,6 +74,31 @@ An entirely new kind of CMS. Pack up your content, markup, and style. Leave the 
 **Formatting:** Markdown
 
 **Website:** http://monstra.org/
+
+### Get Simple CMS
+
+ GetSimple is an XML based, stand-a-alone, fully independant and lite Content Management System.
+
+**Technology:** PHP
+
+**Templating:** Built in / Smarty
+
+**Formatting:** XML
+
+**Website:** http://get-simple.info/
+
+### Razor CMS
+
+ GetSimple is an XML based, stand-a-alone, fully independant and lite Content Management System.
+
+**Technology:** PHP
+
+**Templating:** ???
+
+**Formatting:** Text
+
+**Website:** http://www.razorcms.co.uk/
+
 
 
 
