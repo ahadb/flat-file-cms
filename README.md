@@ -51,7 +51,7 @@ Kirby is a file-based CMS. Easy to setup, easy to use, flexible as hell
 
 **Website:** http://getkirby.com/
 
-### Statmatic
+### Statamic
 
 An entirely new kind of CMS. Pack up your content, markup, and style. Leave the database behind. Making websites just got fun again.
 
@@ -59,7 +59,7 @@ An entirely new kind of CMS. Pack up your content, markup, and style. Leave the 
 
 **Templating:** Built in
 
-**Formatting:** Markdown
+**Formatting:** Markdown, Textile, HTML, Plain Text
 
 **Website:** http://statamic.com/
 
