@@ -99,6 +99,21 @@ An entirely new kind of CMS. Pack up your content, markup, and style. Leave the 
 
 **Website:** http://www.razorcms.co.uk/
 
+### Flat Press
+
+FlatPress is a blogging engine that saves your posts as simple text files.
+
+**Technology:** PHP
+
+**Templating:** Smarty
+
+**Formatting:** Text
+
+**Website:** http://flatpress.org/home/
+
+
+
+
 
 
 
