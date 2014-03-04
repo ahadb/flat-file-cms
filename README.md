@@ -111,6 +111,19 @@ FlatPress is a blogging engine that saves your posts as simple text files.
 
 **Website:** http://flatpress.org/home/
 
+### Dropplets
+
+FlatPress is a blogging engine that saves your posts as simple text files.
+
+**Technology:** PHP
+
+**Templating:** ??
+
+**Formatting:** Markdown
+
+**Website:** http://dropplets.com/
+
+
 
 
 
