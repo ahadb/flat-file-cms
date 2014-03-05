@@ -27,6 +27,19 @@ This can be a debatable topic, and this small project's aim to is to introduce y
 
 Personally I am all for Flat-File CMS's. View them below:
 
+### Nesta
+
+A stupidly simple & blazing fast, flat file CMS. Making the web easy.
+
+**Technology:** Ruby / Sinatra
+
+**Templating:** Haml, Erb, Erubis, Liquid, Sass, Scss and Less
+
+**Formatting:** Markdown, Textile or Haml
+
+**Website:** http://nestacms.com/
+
+
 ### Pico
 
 A stupidly simple & blazing fast, flat file CMS. Making the web easy.
