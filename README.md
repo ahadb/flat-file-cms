@@ -29,7 +29,7 @@ Personally I am all for Flat-File CMS's. View them below:
 
 ### Nesta
 
-A stupidly simple & blazing fast, flat file CMS. Making the web easy.
+A Ruby CMS for developers and designers. With simple code that's easy to follow, Nesta is easily extended using the Sinatra web framework.
 
 **Technology:** Ruby / Sinatra
 
