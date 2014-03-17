@@ -185,7 +185,7 @@ A CMS in a Single PHP File
 **Website:** http://christophersu.net/2012/singularity-cms-single-php-file/
 
 
-## Contributions
+# Contributions
 
 Help grow this list - awesome! Ensure you list a system which is classified as a CMS as opposed to just a static site generator.
 
