@@ -160,6 +160,30 @@ October is a free, open-source, self-hosted CMS platform based on Laravel PHP fr
 
 **Website:** http://octobercms.com
 
+### Feindura
+
+Flat File CMS for designers
+
+**Technology:** PHP 
+
+**Templating:** ?
+
+**Formatting:** HTML, Text and Markdown
+
+**Website:** http://feindura.org/
+
+### Singularity
+
+A CMS in a Single PHP File
+
+**Technology:** PHP 
+
+**Templating:** Nil
+
+**Formatting:** Markdown
+
+**Website:** http://christophersu.net/2012/singularity-cms-single-php-file/
+
 
 ## Contributions
 
