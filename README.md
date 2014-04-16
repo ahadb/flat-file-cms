@@ -166,7 +166,7 @@ Flat File CMS for designers
 
 **Technology:** PHP 
 
-**Templating:** ?
+**Templating:** PHP
 
 **Formatting:** HTML, Text and Markdown
 
