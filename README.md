@@ -148,7 +148,7 @@ Just a Blogging Platform
 
 **Website:** https://ghost.org/
 
-### October CMS (coming)
+### October CMS
 
 October is a free, open-source, self-hosted CMS platform based on Laravel PHP framework. 
 
