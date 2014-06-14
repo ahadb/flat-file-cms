@@ -140,7 +140,7 @@ FlatPress is a blogging engine that saves your posts as simple text files.
 
 Just a Blogging Platform
 
-**Technology:** PHP
+**Technology:** JavaScript
 
 **Templating:** http://marketplace.ghost.org/
 
