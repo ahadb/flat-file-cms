@@ -42,7 +42,7 @@ A Ruby CMS for developers and designers. With simple code that's easy to follow,
 
 ### Pico
 
-A stupidly simple & blazing fast, flat file CMS. Making the web easy.
+A stupidly simple & blazing fast, flat file CMS. 
 
 **Technology:** PHP / Open Source
 
