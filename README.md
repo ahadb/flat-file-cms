@@ -136,18 +136,6 @@ FlatPress is a blogging engine that saves your posts as simple text files.
 
 **Website:** http://dropplets.com/
 
-### Ghost
-
-Just a Blogging Platform
-
-**Technology:** PHP
-
-**Templating:** http://marketplace.ghost.org/
-
-**Formatting:** Markdown
-
-**Website:** https://ghost.org/
-
 ### October CMS
 
 October is a free, open-source, self-hosted CMS platform based on Laravel PHP framework. 
