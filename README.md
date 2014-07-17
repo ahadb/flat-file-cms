@@ -208,6 +208,18 @@ Vestibulum is deathly simple, ultra fast, flat file (Markdown, HTML) CMS. Fully 
 
 **Website:** http://vestibulum.omdesign.cz/
 
+### Flot
+
+no database CMS, written in PHP, supports themes, soon plugins, and flexible taxonomies (data types) . Hybrid static/dynamic CMS that's cached by default. Runs on anything with PHP. Still being developed, but has a good base of features.
+
+**Technology:** PHP / Open Source
+
+**Templating:** HTML (optionally, add PHP)
+
+**Formatting:** HTML with WYSIWYG editor
+
+**Website:** http://flot.io
+
 # Contributions
 
 Help grow this list - awesome! Ensure you list a system which is classified as a CMS as opposed to just a static site generator.
