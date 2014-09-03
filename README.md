@@ -153,19 +153,19 @@ A Ruby CMS for developers and designers. With simple code that's easy to follow,
 
 **Website:** http://nestacms.com/
 
-### October CMS
+### PluXML
 
-October is a free, open-source, self-hosted CMS platform based on Laravel PHP framework. 
+PluXML is a free, open-source, self-hosted CMS platform where data are stored by using XML files. This system is used to be a blog one, but pages feature allows to code some php inside the backend. Many plugins extend its functionnalities.
 
-**Technology:** PHP / Laravel
+**Technology:** PHP / XML
 
-**Templating:** Twig, PHP
+**Templating:** PHP
 
-**Formatting:** HTML, Text and Markdown
+**Formatting:** HTML, Text
 
-**Open source:** [yes](https://github.com/octobercms/october)
+**Open source:** [yes](https://github.com/pluxml/PluXml)
 
-**Website:** http://octobercms.com
+**Website:** http://www.pluxml.org/
 
 ### Phile CMS
 
