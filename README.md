@@ -251,6 +251,20 @@ Vestibulum is deathly simple, ultra fast, flat file (Markdown, HTML) CMS. Fully 
 
 **Website:** http://vestibulum.omdesign.cz/
 
+### Wintersmith
+
+Flexible, minimalistic, multi-platform static site generator built on top of node.js.
+
+**Technology:** Node.js
+
+**Templating:** Jade
+
+**Formatting:** Markdown
+
+**Open source:** [yes](https://github.com/jnordberg/wintersmith)
+
+**Website:** http://wintersmith.io/
+
 ### Yellow
 
 Yellow is for people who make websites. Just files and folders.
@@ -264,6 +278,7 @@ Yellow is for people who make websites. Just files and folders.
 **Open source:** [yes](https://github.com/markseu/yellowcms)
 
 **Website:** http://datenstrom.se/yellow/
+
 
 # Contributions
 
