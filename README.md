@@ -139,6 +139,20 @@ An entirely new kind of CMS. Pack up your content, markup, and style. Leave the 
 
 **Website:** http://monstra.org/
 
+### Middleman
+
+Middleman is a static site generator using all the shortcuts and tools in modern web development
+
+**Technology:** ?
+
+**Templating:** Multiple
+
+**Formatting:** Markdown
+
+**Open source:** [yes](https://github.com/middleman/middleman)
+
+**Website:** http://middlemanapp.com/
+
 ### Nesta
 
 A Ruby CMS for developers and designers. With simple code that's easy to follow, Nesta is easily extended using the Sinatra web framework.
