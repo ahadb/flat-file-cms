@@ -167,6 +167,20 @@ A Ruby CMS for developers and designers. With simple code that's easy to follow,
 
 **Website:** http://nestacms.com/
 
+### Parvula
+
+Simple CMS for developers, designers and clients with admininistration panel.
+
+**Technology:** PHP 
+
+**Templating:** PHP
+
+**Formatting:** Markdown (html if needed)
+
+**Open source:** [yes](https://github.com/BafS/parvula)
+
+**Website:** https://github.com/BafS/parvula
+
 ### PluXML
 
 PluXML is a free, open-source, self-hosted CMS platform where data are stored by using XML files. This system is used to be a blog one, but pages feature allows to code some php inside the backend. Many plugins extend its functionnalities.
