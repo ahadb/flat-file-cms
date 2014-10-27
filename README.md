@@ -27,9 +27,9 @@ This can be a debatable topic, and this small project's aim to is to introduce y
 
 Personally I am all for Flat-File CMS's. View them below in alphabetical order:
 
-### Dropplets
+### Automad
 
-FlatPress is a blogging engine that saves your posts as simple text files.
+A File-Based & Open Source Content Management System.
 
 **Technology:** PHP
 
