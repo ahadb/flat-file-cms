@@ -33,6 +33,20 @@ FlatPress is a blogging engine that saves your posts as simple text files.
 
 **Technology:** PHP
 
+**Templating:** Built in
+
+**Formatting:** Markdown
+
+**Open source:** [yes](https://bitbucket.org/marcantondahmen/automad)
+
+**Website:** http://automad.org/
+
+### Dropplets
+
+FlatPress is a blogging engine that saves your posts as simple text files.
+
+**Technology:** PHP
+
 **Templating:** ??
 
 **Formatting:** Markdown
