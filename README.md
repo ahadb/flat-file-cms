@@ -43,7 +43,7 @@ A File-Based & Open Source Content Management System.
 
 ### Dropplets
 
-FlatPress is a blogging engine that saves your posts as simple text files.
+Dropplets is a minimalist, databaseless Markdown blogging platform.
 
 **Technology:** PHP
 
