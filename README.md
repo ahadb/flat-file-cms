@@ -157,7 +157,7 @@ An entirely new kind of CMS. Pack up your content, markup, and style. Leave the 
 
 Middleman is a static site generator using all the shortcuts and tools in modern web development
 
-**Technology:** ?
+**Technology:** Ruby
 
 **Templating:** Multiple
 
