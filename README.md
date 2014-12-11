@@ -125,6 +125,20 @@ In a nutshell, installing Grav is a matter of unzipping the file. It is fast, ha
 
 **Website:** http://getgrav.org/
 
+### Herbie
+
+Herbie is a CMS and blog system based on simple text files. Composer support - simple installation - no database - just text files.
+
+**Technology:** PHP / YAML / Symfony Components
+
+**Templating:** Twig
+
+**Formatting:** Markdown / Textile
+
+**Open source:** [yes](https://github.com/getherbie/herbie)
+
+**Website:** http://getherbie.org/
+
 ### Kirby
 
 Kirby is a file-based CMS. Easy to setup, easy to use, flexible as hell
