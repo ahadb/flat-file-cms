@@ -253,7 +253,7 @@ A stupidly simple & blazing fast, flat file CMS.
 
 ### Razor CMS
 
- GetSimple is an XML based, stand-a-alone, fully independant and lite Content Management System.
+ razorCMS is a File Based Content Management System. All data in razorCMS is stored in flat files, and uses a "database" engine called razorDB.
 
 **Technology:** PHP
 
