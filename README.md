@@ -321,6 +321,20 @@ Flexible, minimalistic, multi-platform static site generator built on top of nod
 
 **Website:** http://wintersmith.io/
 
+### WonderCMS
+
+WonderCMS is a simple, secure flat file CMS
+
+**Technology:** PHP and jQuery
+
+**Templating:** PHP
+
+**Formatting:** HTML
+
+**Open source:** [yes](https://github.com/robiso/wondercms)
+
+**Website:** http://wondercms.com/
+
 ### Yellow
 
 Yellow is for people who make websites. Just files and folders.
