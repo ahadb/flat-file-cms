@@ -37,7 +37,7 @@ Anchor is a super-simple, lightweight blog system, made to let you just write.
 
 **Formatting:** Markdown
 
-**Open source:** [yes](Anchor is a super-simple, lightweight blog system, made to let you just write.)
+**Open source:** [yes](http://anchorcms.com/)
 
 **Website:** http://anchorcms.com/
 
