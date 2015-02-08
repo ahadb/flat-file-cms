@@ -43,6 +43,8 @@ Anchor is a super-simple, lightweight blog system, made to let you just write.
 
 A File-Based & Open Source Content Management System.
 
+### Automad
+
 **Technology:** PHP
 
 **Templating:** Built in
