@@ -27,7 +27,19 @@ This can be a debatable topic, and this small project's aim to is to introduce y
 
 Personally I am all for Flat-File CMS's. View them below in alphabetical order:
 
-### Automad
+### Anchor
+
+Anchor is a super-simple, lightweight blog system, made to let you just write.
+
+**Technology:** PHP
+
+**Templating:** Built in
+
+**Formatting:** Markdown
+
+**Open source:** [yes](http://anchorcms.com/)
+
+**Website:** http://anchorcms.com/
 
 A File-Based & Open Source Content Management System.
 
