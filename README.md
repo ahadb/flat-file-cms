@@ -1,7 +1,7 @@
 Flat File CMS Systems 
 =====================
 
-Lot's of folk are leaving Wordpress for a flat file CMS system with no database. Wordpress was built as a simple blogging platform and has evolved over the years into a feature rich CMS. Lot's of these features aren't needed by folk who merely want to blog without the bloat. We respect Wordpress and it will always be there, this small project simply aims to give people out there a chance to work with Flat File CMS's also know as file-based CMS's.
+Lot's of folk are leaving Wordpress for a flat file CMS system with no database. Wordpress was built as a simple blogging platform and has evolved over the years into a feature rich CMS. Lot's of these features aren't needed by folk who merely want to blog without the bloat. We respect Wordpress and it will always be there, this small project simply aims to give people out there a chance to work with Flat File CMS's also known as file-based CMS's.
 
 We're not talking about static site generators here, text of XML driven file CMS's..
 
@@ -152,6 +152,34 @@ Herbie is a CMS and blog system based on simple text files. Composer support - s
 **Open source:** [yes](https://github.com/getherbie/herbie)
 
 **Website:** http://getherbie.org/
+
+### Hugo
+
+Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. This means that, unlike systems like WordPress, Ghost and Drupal, which run on your web server expensively building a page every time a visitor requests one, Hugo does the building when you create your content.
+
+**Technology:** Go
+
+**Templating:** Go Templates
+
+**Formatting:** Markdown 
+
+**Open source:** [yes](https://github.com/spf13/hugo)
+
+**Website:** http://gohugo.io/
+
+### Jekyll
+
+Transform your plain text into static websites and blogs.
+
+**Technology:** Ruby
+
+**Templating:** Liquid
+
+**Formatting:** Markdown 
+
+**Open source:** [yes](https://github.com/jekyll/jekyll)
+
+**Website:** http://jekyllrb.com/
 
 ### Kirby
 
