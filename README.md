@@ -155,7 +155,7 @@ Herbie is a CMS and blog system based on simple text files. Composer support - s
 
 ### Hugo
 
-Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. This means that, unlike systems like WordPress, Ghost and Drupal, which run on your web server expensively building a page every time a visitor requests one, Hugo does the building when you create your content.
+Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. 
 
 **Technology:** Go
 
