@@ -95,7 +95,7 @@ no database CMS, written in PHP, supports themes, soon plugins, and flexible tax
 
 **Open source:** yes
 
-**Website:** http://flot.io
+**Website:** http://flotcms.com
 
 ### Get Simple CMS
 
