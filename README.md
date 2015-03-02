@@ -3,11 +3,11 @@ Flat File CMS Systems
 
 Lot's of folk are leaving Wordpress for a flat file CMS system with no database. Wordpress was built as a simple blogging platform and has evolved over the years into a feature rich CMS. Lot's of these features aren't needed by folk who merely want to blog without the bloat. We respect Wordpress and it will always be there, this small project simply aims to give people out there a chance to work with Flat File CMS's also known as file-based CMS's.
 
-We're not talking about static site generators here, text of XML driven file CMS's..
+We're not talking about static site generators here, text of XML driven file CMS's.
 
 ## What is a Flat-File CMS?
 
-Without a database the flat-file CMS stores content in files and folders unlike a traditional database. This means you don't have to query any database of any kind in your system -  there is no databse. The flat-file system generates dynamic pages and each blog post or page is simply in a folder of it's own (depending on the system and how you structure it). There are several ways to populate and parse content, xml and markdown being the most popular.
+Without a database the flat-file CMS stores content in files and folders unlike a traditional database. This means you don't have to query any database of any kind in your system -  there is no database. The flat-file system generates dynamic pages and each blog post or page is simply in a folder of its own (depending on the system and how you structure it). There are several ways to populate and parse content, xml and markdown being the most popular.
 
 There are certain advantages of not using a database like:
 
@@ -101,11 +101,11 @@ no database CMS, written in PHP, supports themes, soon plugins, and flexible tax
 
 GetSimple is an XML based, stand-a-alone, fully independant and lite Content Management System.
 
-**Technology:** PHP
+**Technology:** PHP / XML
 
-**Templating:** Built in / Smarty
+**Templating:** HTML, PHP
 
-**Formatting:** XML
+**Formatting:** HTML
 
 **Open source:** [yes](https://github.com/GetSimpleCMS/GetSimpleCMS)
 
