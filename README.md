@@ -105,7 +105,7 @@ GetSimple is an XML based, stand-a-alone, fully independant and lite Content Man
 
 **Templating:** HTML, PHP
 
-**Formatting:** HTML
+**Formatting:** HTML / WYSIWYG editor
 
 **Open source:** [yes](https://github.com/GetSimpleCMS/GetSimpleCMS)
 
