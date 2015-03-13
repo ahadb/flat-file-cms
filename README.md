@@ -41,6 +41,20 @@ A File-Based & Open Source Content Management System.
 
 **Website:** http://automad.org/
 
+### Baun
+
+A modern, lightweight, extensible CMS for PHP.
+
+**Technology:** PHP
+
+**Templating:** Twig
+
+**Formatting:** Markdown
+
+**Open source:** [yes](https://github.com/BaunCMS/Baun/blob/master/LICENSE)
+
+**Website:** [http://bauncms.com](http://bauncms.com/)
+
 ### Dropplets
 
 Dropplets is a minimalist, databaseless Markdown blogging platform.
