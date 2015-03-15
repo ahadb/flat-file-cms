@@ -1,35 +1,37 @@
-Flat File CMS Systems 
+Flat File CMS Systems
 =====================
 
-Lot's of folk are leaving Wordpress for a flat file CMS system with no database. Wordpress was built as a simple blogging platform and has evolved over the years into a feature rich CMS. Lot's of these features aren't needed by folk who merely want to blog without the bloat. We respect Wordpress and it will always be there, this small project simply aims to give people out there a chance to work with Flat File CMS's also known as file-based CMS's.
+Lot&rsquo;s of folk are leaving Wordpress for a flat file CMS system with no database. Wordpress was built as a simple blogging platform and has evolved over the years into a feature rich CMS. Lot&rsquo;s of these features aren&rsquo;t needed by folk who merely want to blog without the bloat. We respect Wordpress and it will always be there, this small project simply aims to give people out there a chance to work with Flat File CMS&rsquo;s also known as file&ndash;based CMS&rsquo;s.
 
-We're not talking about static site generators here, text of XML driven file CMS's.
+We&rsquo;re not talking about static site generators here, text of XML driven file CMS&rsquo;s.
 
-## What is a Flat-File CMS?
+What is a Flat-File CMS?
+------------------------
 
-Without a database the flat-file CMS stores content in files and folders unlike a traditional database. This means you don't have to query any database of any kind in your system -  there is no database. The flat-file system generates dynamic pages and each blog post or page is simply in a folder of its own (depending on the system and how you structure it). There are several ways to populate and parse content, xml and markdown being the most popular.
+Without a database the flat-file CMS stores content in files and folders unlike a traditional database. This means you don&rsquo;t have to query any database of any kind in your system &mdash;there is no database. The flat-file system generates dynamic pages and each blog post or page is simply in a folder of its own (depending on the system and how you structure it). There are several ways to populate and parse content, xml and markdown being the most popular.
 
 There are certain advantages of not using a database like:
 
-* Simplicity
-* Speed
-* Security
-* Version Control
-* Maintenance
-* Portability
-* Less expense (server)
+ * Simplicity
+ * Speed
+ * Security
+ * Version Control
+ * Maintenance
+ * Portability
+ * Less expense (server)
 
-## Are they "CMS-Like Systems", shouldn't they be called "Content Publishing Systems"?
+Are they &ldquo;CMS&ndash;Like Systems&rdquo;, shouldn&rsquo;t they be called &ldquo;Content Publishing Systems&rdquo;?
+-----------------------------------------------------------------------------------------------------------------
 
-Some people will argue that these flat-file CMS systems aren't real content management systems. Whilst they do let you manage your content they aren't full blown as they don't let you authentication/authorization. The argument is a full blown CMS should somehow be able to grant and deny create/read/update/delete access and permissions to users.
+Some people will argue that these flat-file CMS systems aren&rsquo;t real content management systems. Whilst they do let you manage your content they aren&rsquo;t full blown as they don&rsquo;t let you authentication/authorization. The argument is a full blown CMS should somehow be able to grant and deny create/read/update/delete access and permissions to users.
 
-This can be a debatable topic, and this small project's aim to is to introduce you to these Flat-File CMS's. If you're new to the game then it's advantageous to seeing different views. 
+This can be a debatable topic, and this small project&rsquo;s aim to is to introduce you to these Flat-File CMS&rsquo;s. If you&rsquo;re new to the game then it&rsquo;s advantageous to seeing different views.
 
-Personally I am all for Flat-File CMS's for personal blogs. View them below in alphabetical order:
+Personally I am all for Flat-File CMS&rsquo;s for personal blogs. View them below in alphabetical order:
 
 ### Automad
 
-A File-Based & Open Source Content Management System.
+A File-Based &amp; Open Source Content Management System.
 
 **Technology:** PHP
 
@@ -77,7 +79,7 @@ Flat File CMS for designers
 
 **Templating:** PHP
 
-**Formatting:** HTML, Text and Markdown
+**Formatting:** HTML / Text / Markdown
 
 **Open source:** [yes](https://github.com/frozeman/feindura-flat-file-cms)
 
@@ -99,7 +101,7 @@ FlatPress is a blogging engine that saves your posts as simple text files.
 
 ### Flot
 
-no database CMS, written in PHP, supports themes, soon plugins, and flexible taxonomies (data types) . Hybrid static/dynamic CMS that's cached by default. Runs on anything with PHP. Still being developed, but has a good base of features.
+no database CMS, written in PHP, supports themes, soon plugins, and flexible taxonomies (data types). Hybrid static/dynamic CMS that&rsquo;s cached by default. Runs on anything with PHP. Still being developed, but has a good base of features.
 
 **Technology:** PHP
 
@@ -127,7 +129,7 @@ GetSimple is an XML based, stand-a-alone, fully independant and lite Content Man
 
 ### Grav
 
-In a nutshell, installing Grav is a matter of unzipping the file. It is fast, has sophisticated caching, and a light footprint for optimal performance. 
+In a nutshell, installing Grav is a matter of unzipping the file. It is fast, has sophisticated caching, and a light footprint for optimal performance.
 
 **Technology:** PHP / YAML
 
@@ -155,13 +157,13 @@ Herbie is a CMS and blog system based on simple text files. Composer support - s
 
 ### Hugo
 
-Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. 
+Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator.
 
 **Technology:** Go
 
 **Templating:** Go Templates
 
-**Formatting:** Markdown 
+**Formatting:** Markdown
 
 **Open source:** [yes](https://github.com/spf13/hugo)
 
@@ -175,7 +177,7 @@ Transform your plain text into static websites and blogs.
 
 **Templating:** Liquid
 
-**Formatting:** Markdown 
+**Formatting:** Markdown
 
 **Open source:** [yes](https://github.com/jekyll/jekyll)
 
@@ -194,6 +196,20 @@ Kirby is a file-based CMS. Easy to setup, easy to use, flexible as hell
 **Open source:** no
 
 **Website:** http://getkirby.com/
+
+### Mecha
+
+Mecha is a file&ndash;based CMS. It does not require any database. Almost all files are stored as plain text files which grouped into folders, which you can even edit it manually through a plain text editor application.
+
+**Technology:** PHP
+
+**Templating:** PHP
+
+**Formatting:** Markdown / Markdown Extra / HTML
+
+**Open source:** [yes](https://github.com/mecha-cms/mecha-cms)
+
+**Website:** http://mecha-cms.com/
 
 ### Monstra
 
@@ -225,7 +241,7 @@ Middleman is a static site generator using all the shortcuts and tools in modern
 
 ### Nesta
 
-A Ruby CMS for developers and designers. With simple code that's easy to follow, Nesta is easily extended using the Sinatra web framework.
+A Ruby CMS for developers and designers. With simple code that&rsquo;s easy to follow, Nesta is easily extended using the Sinatra web framework.
 
 **Technology:** Ruby / Sinatra
 
@@ -241,7 +257,7 @@ A Ruby CMS for developers and designers. With simple code that's easy to follow,
 
 Simple CMS for developers, designers and clients with admininistration panel.
 
-**Technology:** PHP 
+**Technology:** PHP
 
 **Templating:** PHP
 
@@ -269,7 +285,7 @@ PluXML is a free, open-source, self-hosted CMS platform where data are stored by
 
 A Markdown File Based CMS
 
-**Technology:** PHP 
+**Technology:** PHP
 
 **Templating:** Twig
 
@@ -281,7 +297,7 @@ A Markdown File Based CMS
 
 ### Pico
 
-A stupidly simple & blazing fast, flat file CMS. 
+A stupidly simple & blazing fast, flat file CMS.
 
 **Technology:** PHP
 
@@ -295,7 +311,7 @@ A stupidly simple & blazing fast, flat file CMS.
 
 ### Razor CMS
 
- razorCMS is a File Based Content Management System. All data in razorCMS is stored in flat files, and uses a "database" engine called razorDB.
+ razorCMS is a File Based Content Management System. All data in razorCMS is stored in flat files, and uses a &ldquo;database&rdquo; engine called razorDB.
 
 **Technology:** PHP
 
@@ -311,7 +327,7 @@ A stupidly simple & blazing fast, flat file CMS.
 
 A CMS in a Single PHP File
 
-**Technology:** PHP 
+**Technology:** PHP
 
 **Templating:** Nil
 
@@ -341,9 +357,9 @@ Vestibulum is deathly simple, ultra fast, flat file (Markdown, HTML) CMS. Fully 
 
 **Technology:** PHP
 
-**Templating:** Twig | HTML | PHP
+**Templating:** Twig / HTML / PHP
 
-**Formatting:** Markdown | HTML
+**Formatting:** Markdown / HTML
 
 **Open source:** [yes](https://github.com/OzzyCzech/vestibulum)
 
@@ -391,8 +407,7 @@ Yellow is for people who make websites. Just files and folders.
 
 **Website:** http://datenstrom.se/yellow/
 
+Contributions
+=============
 
-# Contributions
-
-Help grow this list - awesome! Ensure you list a system which is classified as a CMS as opposed to just a static site generator.
-
+Help grow this list &mdash; awesome! Ensure you list a system which is classified as a CMS as opposed to just a static site generator.
