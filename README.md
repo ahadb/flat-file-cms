@@ -410,4 +410,4 @@ Yellow is for people who make websites. Just files and folders.
 Contributions
 =============
 
-Help grow this list &mdash; awesome! Ensure you list a system which is classified as a CMS as opposed to just a static site generator.
+Help grow this list &mdash; awesome! Ensure you list a system which is classified as a CMS as opposed to just a static site generator. Thanks for your help!
