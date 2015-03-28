@@ -395,15 +395,15 @@ WonderCMS is a simple, secure flat file CMS
 
 ### Yellow
 
-Yellow is for people who make websites. Just files and folders.
+Yellow is for people who make websites.
 
 **Technology:** PHP
 
-**Templating:** PHP
+**Templating:** HTML / PHP
 
 **Formatting:** Markdown
 
-**Open source:** [yes](https://github.com/markseu/yellowcms)
+**Open source:** [yes](https://github.com/datenstrom/yellow)
 
 **Website:** http://datenstrom.se/yellow/
 
