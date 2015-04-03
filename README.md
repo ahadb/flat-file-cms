@@ -27,7 +27,7 @@ Some people will argue that these flat-file CMS systems aren&rsquo;t real conten
 
 This can be a debatable topic, and this small project&rsquo;s aim to is to introduce you to these Flat-File CMS&rsquo;s. If you&rsquo;re new to the game then it&rsquo;s advantageous to seeing different views.
 
-Personally I am all for Flat-File CMS&rsquo;s for personal blogs. View them below in alphabetical order:
+Personally, I am all for Flat-File CMS&rsquo;s for personal blogs. View them below in alphabetical order:
 
 ### Automad
 
