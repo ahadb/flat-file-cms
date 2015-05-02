@@ -43,6 +43,8 @@ A File-Based &amp; Open Source Content Management System.
 
 **Website:** http://automad.org/
 
+**Latest:** 0.9.103 2015-01-25 http://automad.org/release_notes
+
 ### Baun
 
 A modern, lightweight, extensible CMS for PHP.
