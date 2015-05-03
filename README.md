@@ -43,6 +43,8 @@ A File-Based &amp; Open Source Content Management System.
 
 **Website:** http://automad.org/
 
+**Latest:** 0.9.103 2015-01-25 http://automad.org/release_notes
+
 ### Baun
 
 A modern, lightweight, extensible CMS for PHP.
@@ -253,6 +255,20 @@ A Ruby CMS for developers and designers. With simple code that&rsquo;s easy to f
 
 **Website:** http://nestacms.com/
 
+### Nibbleblog
+
+Easy, fast and free Blog system
+
+**Technology:** PHP
+
+**Templating:** PHP
+
+**Open source:** Yes
+
+**Website:** http://www.nibbleblog.com/
+
+**Latest:**  4.03 2014-04-01 http://blog.nibbleblog.com/post/nibbleblog-v4.0.3-coffee/
+
 ### Parvula
 
 Simple CMS for developers, designers and clients with admininistration panel.
@@ -308,6 +324,20 @@ A stupidly simple & blazing fast, flat file CMS.
 **Open source:** [yes](https://github.com/picocms/Pico)
 
 **Website:** http://pico.dev7studios.com/index.html
+
+## Pluck CMS
+
+Small, Simple Content Managment
+
+**Technology:** PHP
+
+**Templating:** PHP
+
+**Open source:** [yes]
+
+**Website:** http://www.pluck-cms.org/
+
+**Latest:** 4.7.3 2014-12-08 https://github.com/pluck-cms/pluck/releases 
 
 ### Razor CMS
 
