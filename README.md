@@ -195,7 +195,7 @@ Kirby is a file-based CMS. Easy to setup, easy to use, flexible as hell
 
 **Formatting:** Markdown
 
-**Open source:** no
+**Open source:** [yes](https://github.com/getkirby)
 
 **Website:** http://getkirby.com/
 
