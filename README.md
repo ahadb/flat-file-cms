@@ -227,6 +227,22 @@ An entirely new kind of CMS. Pack up your content, markup, and style. Leave the 
 
 **Website:** http://monstra.org/
 
+### Mozilo
+
+Simple, lightweight, beginner-friendly and expandable with plugins
+
+**Technology:** PHP
+
+**Templating:** HTML
+
+**Formatting:** Expandable own syntax
+
+**Open source:** [yes](https://github.com/mozilo/mozilo2.0)
+
+**Website:** http://mozilo.de/
+
+**Latest:**  2.0.33 2015-05-18 https://github.com/mozilo/mozilo2.0/commits/master
+
 ### Middleman
 
 Middleman is a static site generator using all the shortcuts and tools in modern web development
