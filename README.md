@@ -33,6 +33,8 @@ Personally, I am all for Flat-File CMS&rsquo;s for personal blogs. View them bel
 
 A File-Based &amp; Open Source Content Management System.
 
+**Pricing:** Free
+
 **Technology:** PHP
 
 **Templating:** Built in
@@ -49,6 +51,8 @@ A File-Based &amp; Open Source Content Management System.
 
 A modern, lightweight, extensible CMS for PHP.
 
+**Pricing:** Free
+
 **Technology:** PHP
 
 **Templating:** Twig
@@ -62,6 +66,8 @@ A modern, lightweight, extensible CMS for PHP.
 ### Dropplets
 
 Dropplets is a minimalist, databaseless Markdown blogging platform.
+
+**Pricing:** Free
 
 **Technology:** PHP
 
@@ -77,6 +83,8 @@ Dropplets is a minimalist, databaseless Markdown blogging platform.
 
 Flat File CMS for designers
 
+**Pricing:** Free
+
 **Technology:** PHP 
 
 **Templating:** PHP
@@ -90,6 +98,8 @@ Flat File CMS for designers
 ### Flat Press
 
 FlatPress is a blogging engine that saves your posts as simple text files.
+
+**Pricing:** Free
 
 **Technology:** PHP
 
@@ -105,6 +115,8 @@ FlatPress is a blogging engine that saves your posts as simple text files.
 
 no database CMS, written in PHP, supports themes, soon plugins, and flexible taxonomies (data types). Hybrid static/dynamic CMS that&rsquo;s cached by default. Runs on anything with PHP. Still being developed, but has a good base of features.
 
+**Pricing:** Free ? (someone please confirm, website seems down)
+
 **Technology:** PHP
 
 **Templating:** HTML (optionally, add PHP)
@@ -118,6 +130,8 @@ no database CMS, written in PHP, supports themes, soon plugins, and flexible tax
 ### Get Simple CMS
 
 GetSimple is an XML based, stand-a-alone, fully independant and lite Content Management System.
+
+**Pricing:** Free
 
 **Technology:** PHP / XML
 
@@ -133,6 +147,8 @@ GetSimple is an XML based, stand-a-alone, fully independant and lite Content Man
 
 In a nutshell, installing Grav is a matter of unzipping the file. It is fast, has sophisticated caching, and a light footprint for optimal performance.
 
+**Pricing:** Free
+
 **Technology:** PHP / YAML
 
 **Templating:** Twig
@@ -146,6 +162,8 @@ In a nutshell, installing Grav is a matter of unzipping the file. It is fast, ha
 ### Herbie
 
 Herbie is a CMS and blog system based on simple text files. Composer support - simple installation - no database - just text files.
+
+**Pricing:** Free
 
 **Technology:** PHP / YAML / Symfony Components
 
@@ -161,6 +179,8 @@ Herbie is a CMS and blog system based on simple text files. Composer support - s
 
 Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator.
 
+**Pricing:** Free
+
 **Technology:** Go
 
 **Templating:** Go Templates
@@ -174,6 +194,8 @@ Hugo is a general-purpose website framework. Technically speaking, Hugo is a sta
 ### Jekyll
 
 Transform your plain text into static websites and blogs.
+
+**Pricing:** Free
 
 **Technology:** Ruby
 
@@ -189,6 +211,8 @@ Transform your plain text into static websites and blogs.
 
 Kirby is a file-based CMS. Easy to setup, easy to use, flexible as hell
 
+**Pricing:** Free to try - Starting at: Personal $17 / Commercial $89
+
 **Technology:** PHP
 
 **Templating:** Roll your own
@@ -202,6 +226,8 @@ Kirby is a file-based CMS. Easy to setup, easy to use, flexible as hell
 ### Mecha
 
 Mecha is a file&ndash;based CMS. It does not require any database. Almost all files are stored as plain text files which grouped into folders, which you can even edit it manually through a plain text editor application.
+
+**Pricing:** Free
 
 **Technology:** PHP
 
@@ -217,6 +243,8 @@ Mecha is a file&ndash;based CMS. It does not require any database. Almost all fi
 
 An entirely new kind of CMS. Pack up your content, markup, and style. Leave the database behind. Making websites just got fun again.
 
+**Pricing:** Free
+
 **Technology:** PHP
 
 **Templating:** Built in
@@ -230,6 +258,8 @@ An entirely new kind of CMS. Pack up your content, markup, and style. Leave the 
 ### Mozilo
 
 Simple, lightweight, beginner-friendly and expandable with plugins
+
+**Pricing:** Free
 
 **Technology:** PHP
 
@@ -247,6 +277,8 @@ Simple, lightweight, beginner-friendly and expandable with plugins
 
 Middleman is a static site generator using all the shortcuts and tools in modern web development
 
+**Pricing:** Free
+
 **Technology:** Ruby
 
 **Templating:** Multiple
@@ -260,6 +292,8 @@ Middleman is a static site generator using all the shortcuts and tools in modern
 ### Nesta
 
 A Ruby CMS for developers and designers. With simple code that&rsquo;s easy to follow, Nesta is easily extended using the Sinatra web framework.
+
+**Pricing:** Free
 
 **Technology:** Ruby / Sinatra
 
@@ -275,6 +309,8 @@ A Ruby CMS for developers and designers. With simple code that&rsquo;s easy to f
 
 Easy, fast and free Blog system
 
+**Pricing:** Free
+
 **Technology:** PHP
 
 **Templating:** PHP
@@ -288,6 +324,8 @@ Easy, fast and free Blog system
 ### Parvula
 
 Simple CMS for developers, designers and clients with admininistration panel.
+
+**Pricing:** Free
 
 **Technology:** PHP
 
@@ -303,6 +341,8 @@ Simple CMS for developers, designers and clients with admininistration panel.
 
 PluXML is a free, open-source, self-hosted CMS platform where data are stored by using XML files. This system is used to be a blog one, but pages feature allows to code some php inside the backend. Many plugins extend its functionnalities.
 
+**Pricing:** Free
+
 **Technology:** PHP / XML
 
 **Templating:** PHP
@@ -316,6 +356,8 @@ PluXML is a free, open-source, self-hosted CMS platform where data are stored by
 ### Phile CMS
 
 A Markdown File Based CMS
+
+**Pricing:** Free
 
 **Technology:** PHP
 
@@ -331,6 +373,8 @@ A Markdown File Based CMS
 
 A stupidly simple & blazing fast, flat file CMS.
 
+**Pricing:** Free
+
 **Technology:** PHP
 
 **Templating:** Twig
@@ -344,6 +388,8 @@ A stupidly simple & blazing fast, flat file CMS.
 ## Pluck CMS
 
 Small, Simple Content Managment
+
+**Pricing:** Free
 
 **Technology:** PHP
 
@@ -359,6 +405,8 @@ Small, Simple Content Managment
 
  razorCMS is a File Based Content Management System. All data in razorCMS is stored in flat files, and uses a &ldquo;database&rdquo; engine called razorDB.
 
+**Pricing:** Free
+
 **Technology:** PHP
 
 **Templating:** ???
@@ -372,6 +420,8 @@ Small, Simple Content Managment
 ### Singularity
 
 A CMS in a Single PHP File
+
+**Pricing:** Free
 
 **Technology:** PHP
 
@@ -387,6 +437,8 @@ A CMS in a Single PHP File
 
 An entirely new kind of CMS. Pack up your content, markup, and style. Leave the database behind. Making websites just got fun again.
 
+**Pricing:** Starting at: Personal $29 / Commercial $99
+
 **Technology:** PHP
 
 **Templating:** Built in
@@ -400,6 +452,8 @@ An entirely new kind of CMS. Pack up your content, markup, and style. Leave the 
 ### Vestibulum
 
 Vestibulum is deathly simple, ultra fast, flat file (Markdown, HTML) CMS. Fully customizable with Twig templates
+
+**Pricing:** Free
 
 **Technology:** PHP
 
@@ -415,6 +469,8 @@ Vestibulum is deathly simple, ultra fast, flat file (Markdown, HTML) CMS. Fully 
 
 Flexible, minimalistic, multi-platform static site generator built on top of node.js.
 
+**Pricing:** Free
+
 **Technology:** Node.js
 
 **Templating:** Jade
@@ -429,6 +485,8 @@ Flexible, minimalistic, multi-platform static site generator built on top of nod
 
 WonderCMS is a simple, secure flat file CMS
 
+**Pricing:** Free
+
 **Technology:** PHP and jQuery
 
 **Templating:** PHP
@@ -442,6 +500,8 @@ WonderCMS is a simple, secure flat file CMS
 ### Yellow
 
 Yellow is for people who make websites.
+
+**Pricing:** Free
 
 **Technology:** PHP
 
