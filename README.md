@@ -1,7 +1,7 @@
 Flat File CMS Systems
 =====================
 
-Lot&rsquo;s of folk are leaving Wordpress for a flat file CMS system with no database. Wordpress was built as a simple blogging platform and has evolved over the years into a feature rich CMS. Lot&rsquo;s of these features aren&rsquo;t needed by folk who merely want to blog without the bloat. We respect Wordpress and it will always be there, this small project simply aims to give people out there a chance to work with Flat File CMS&rsquo;s also known as file&ndash;based CMS&rsquo;s.
+Lot&rsquo;s of folks are leaving Wordpress for a flat file CMS system with no database. Wordpress was built as a simple blogging platform and has evolved over the years into a feature rich CMS. Lot&rsquo;s of these features aren&rsquo;t needed by folk who merely want to blog without the bloat. We respect Wordpress and it will always be there, this small project simply aims to give people out there a chance to work with Flat File CMS&rsquo;s also known as file&ndash;based CMS&rsquo;s.
 
 We&rsquo;re not talking about static site generators here, text of XML driven file CMS&rsquo;s.
 
