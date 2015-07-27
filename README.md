@@ -157,6 +157,22 @@ Herbie is a CMS and blog system based on simple text files. Composer support - s
 
 **Website:** http://getherbie.org/
 
+### HTMLy
+
+HTMLy is an open source databaseless blogging platform that prioritizes simplicity and speed (Flat-File Blog). HTMLy can be referred to as a Flat-File CMS, since it will also manage your content.
+
+You do not need to use a VPS to run HTMLy, shared hosting or even free hosting should work as long as the host supports at least PHP 5.3.
+
+**Technology:** PHP
+
+**Templating:** ???
+
+**Formatting:** Markdown
+
+**Open source:** [yes](https://github.com/danpros/htmly)
+
+**Website:** https://demo.htmly.com/
+
 ### Hugo
 
 Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator.
