@@ -59,6 +59,20 @@ A modern, lightweight, extensible CMS for PHP.
 
 **Website:** [http://bauncms.com](http://bauncms.com/)
 
+### Dodger CMS
+
+DodgerCMS is a static markdown CMS built on top of Amazon S3.
+
+**Technology:** JavaScript
+
+**Templating:** PureCss
+
+**Formatting:** Markdown
+
+**Open source:** [yes](https://github.com/ChrisZieba/dodgercms)
+
+**Website:** http://dodgercms.com/
+
 ### Dropplets
 
 Dropplets is a minimalist, databaseless Markdown blogging platform.
