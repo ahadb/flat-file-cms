@@ -65,11 +65,11 @@ Create your own Blog in seconds, Fast, Simple, Extensible and Flat-file CMS.
 
 **Technology:** PHP / JSON
 
-**Templating:** HTML5 / CSS / JAVASCRIPT / PHP
+**Templating:** HTML5 / Css / JavaScript
 
 **Formatting:** Markdown and HTML
 
-**Open source:** YES
+**Open source:** Yes
 
 **Website:** [http://www.bludit.com](http://www.bludit.com/)
 
