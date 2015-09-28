@@ -59,6 +59,20 @@ A modern, lightweight, extensible CMS for PHP.
 
 **Website:** [http://bauncms.com](http://bauncms.com/)
 
+### Bludit
+
+Create your own Blog in seconds, Fast, Simple, Extensible and Flat-file CMS.
+
+**Technology:** PHP / JSON
+
+**Templating:** HTML5 / Css / JavaScript
+
+**Formatting:** Markdown and HTML
+
+**Open source:** Yes
+
+**Website:** [http://www.bludit.com](http://www.bludit.com/)
+
 ### Dodger CMS
 
 DodgerCMS is a static markdown CMS built on top of Amazon S3.
@@ -91,7 +105,7 @@ Dropplets is a minimalist, databaseless Markdown blogging platform.
 
 Flat File CMS for designers
 
-**Technology:** PHP 
+**Technology:** PHP
 
 **Templating:** PHP
 
@@ -383,7 +397,7 @@ Small, Simple Content Managment
 
 **Website:** http://www.pluck-cms.org/
 
-**Latest:** 4.7.3 2014-12-08 https://github.com/pluck-cms/pluck/releases 
+**Latest:** 4.7.3 2014-12-08 https://github.com/pluck-cms/pluck/releases
 
 ### Razor CMS
 
