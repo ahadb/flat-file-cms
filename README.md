@@ -73,6 +73,8 @@ Create your own Blog in seconds, Fast, Simple, Extensible and Flat-file CMS.
 
 **Website:** [http://www.bludit.com](http://www.bludit.com/)
 
+**Latest:** 0.3 2015-10-02 http://forum.bludit.com/
+
 ### Dodger CMS
 
 DodgerCMS is a static markdown CMS built on top of Amazon S3.
@@ -399,9 +401,25 @@ Small, Simple Content Managment
 
 **Latest:** 4.7.3 2014-12-08 https://github.com/pluck-cms/pluck/releases
 
+## Pulse CMS
+
+Flat file CMS
+
+**Technology:** PHP
+
+**Templating:** PHP
+
+**Formatting:** HTML and Markdown
+
+**Open source:** no
+
+**Website:** http://www.pulsecms.com/
+
+**Latest:** 4.5 2015-09-13 http://www.pulsecms.com/blog
+
 ### Razor CMS
 
- razorCMS is a File Based Content Management System. All data in razorCMS is stored in flat files, and uses a &ldquo;database&rdquo; engine called razorDB.
+razorCMS is a File Based Content Management System. All data in razorCMS is stored in flat files, and uses a &ldquo;database&rdquo; engine called razorDB.
 
 **Technology:** PHP
 
