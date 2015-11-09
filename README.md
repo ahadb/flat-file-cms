@@ -73,7 +73,7 @@ Create your own Blog in seconds, Fast, Simple, Extensible and Flat-file CMS.
 
 **Website:** [http://www.bludit.com](http://www.bludit.com/)
 
-**Latest:** 0.3 2015-10-02 http://forum.bludit.com/
+**Latest:** 0.5 2015-11-01 http://forum.bludit.com/
 
 ### Dodger CMS
 
