@@ -273,6 +273,20 @@ An entirely new kind of CMS. Pack up your content, markup, and style. Leave the 
 
 **Website:** http://monstra.org/
 
+### Morfy
+
+Morfy is Modern Open Source File-Based Content Management System.
+
+**Technology:** PHP
+
+**Templating:** Fenom
+
+**Formatting:** Markdown
+
+**Open source:** [yes](https://github.com/morfy-cms/morfy)
+
+**Website:** http://morfy.org
+
 ### Mozilo
 
 Simple, lightweight, beginner-friendly and expandable with plugins
