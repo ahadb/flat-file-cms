@@ -267,11 +267,11 @@ An entirely new kind of CMS. Pack up your content, markup, and style. Leave the 
 
 **Templating:** Built in
 
-**Formatting:** Markdown
+**Formatting:** Markdown / HTML
 
-**Open source:** [yes](https://github.com/Awilum/monstra-cms)
+**Open source:** [yes](https://github.com/monstra-cms/monstra)
 
-**Website:** http://monstra.org/
+**Website:** http://monstra.org
 
 ### Morfy
 
