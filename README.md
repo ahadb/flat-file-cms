@@ -317,6 +317,18 @@ Middleman is a static site generator using all the shortcuts and tools in modern
 
 **Website:** http://middlemanapp.com/
 
+### Nanote
+
+Nanote simple flat-file blog script, GPL v.3
+
+**Technology:** PHP
+
+**Templating:** HTML
+
+**Formatting:** HTML
+
+**Open source:** [yes](https://github.com/muhas/nanote)
+
 ### Nesta
 
 A Ruby CMS for developers and designers. With simple code that&rsquo;s easy to follow, Nesta is easily extended using the Sinatra web framework.
@@ -486,6 +498,18 @@ Vestibulum is deathly simple, ultra fast, flat file (Markdown, HTML) CMS. Fully 
 **Open source:** [yes](https://github.com/OzzyCzech/vestibulum)
 
 **Website:** http://vestibulum.omdesign.cz/
+
+### Vodka
+
+Simple and tiny PHP flat-file site engine.
+
+**Technology:** PHP
+
+**Templating:** HTML / PHP
+
+**Formatting:** HTML
+
+**Open source:** [yes](https://github.com/deseven/vodka)
 
 ### Wintersmith
 
