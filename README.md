@@ -485,19 +485,19 @@ An entirely new kind of CMS. Pack up your content, markup, and style. Leave the 
 
 **Website:** http://statamic.com/
 
-### Vestibulum
+### Sphido
 
-Vestibulum is deathly simple, ultra fast, flat file (Markdown, HTML) CMS. Fully customizable with Twig templates
+Sphido is a rocket fast, simple, lightweight, easy to hack, flat file CMS for PHP. Supports Markdown and HTML content with Latte template engine.
 
 **Technology:** PHP
 
-**Templating:** Twig / HTML / PHP
+**Templating:** Latte / PHTML
 
-**Formatting:** Markdown / HTML
+**Formatting:** Latte / Markdown / HTML
 
-**Open source:** [yes](https://github.com/OzzyCzech/vestibulum)
+**Open source:** [yes](https://github.com/sphido/cms)
 
-**Website:** http://vestibulum.omdesign.cz/
+**Website:** http://www.sphido.org/
 
 ### Vodka
 
