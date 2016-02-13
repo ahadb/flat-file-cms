@@ -61,7 +61,7 @@ A modern, lightweight, extensible CMS for PHP.
 
 ### Bludit
 
-Create your own Blog in seconds, Fast, Simple, Extensible and Flat-file CMS.
+Create your own site or blog in seconds, Fast, Simple, Extensible and Flat-file CMS.
 
 **Technology:** PHP / JSON
 
@@ -71,7 +71,7 @@ Create your own Blog in seconds, Fast, Simple, Extensible and Flat-file CMS.
 
 **Open source:** Yes
 
-**Website:** [http://www.bludit.com](http://www.bludit.com/)
+**Website:** [https://www.bludit.com](https://www.bludit.com/)
 
 **Latest:** 0.5 2015-11-01 http://forum.bludit.com/
 
