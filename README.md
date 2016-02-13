@@ -61,7 +61,7 @@ A modern, lightweight, extensible CMS for PHP.
 
 ### Bludit
 
-Create your own Blog in seconds, Fast, Simple, Extensible and Flat-file CMS.
+Create your own site or blog in seconds, Fast, Simple, Extensible and Flat-file CMS.
 
 **Technology:** PHP / JSON
 
@@ -71,7 +71,7 @@ Create your own Blog in seconds, Fast, Simple, Extensible and Flat-file CMS.
 
 **Open source:** Yes
 
-**Website:** [http://www.bludit.com](http://www.bludit.com/)
+**Website:** [https://www.bludit.com](https://www.bludit.com/)
 
 ### Dodger CMS
 
@@ -100,6 +100,20 @@ Dropplets is a minimalist, databaseless Markdown blogging platform.
 **Open source:** [yes](https://github.com/circa75/dropplets)
 
 **Website:** http://dropplets.com/
+
+### Fansoro
+
+Fansoro is Modern Open Source File-Based Content Management System.
+
+**Technology:** PHP
+
+**Templating:** Fenom
+
+**Formatting:** Markdown
+
+**Open source:** [yes](https://github.com/fansoro/fansoro)
+
+**Website:** http://fansoro.org
 
 ### Feindura
 
@@ -265,11 +279,11 @@ An entirely new kind of CMS. Pack up your content, markup, and style. Leave the 
 
 **Templating:** Built in
 
-**Formatting:** Markdown
+**Formatting:** Markdown / HTML
 
-**Open source:** [yes](https://github.com/Awilum/monstra-cms)
+**Open source:** [yes](https://github.com/monstra-cms/monstra)
 
-**Website:** http://monstra.org/
+**Website:** http://monstra.org
 
 ### Mozilo
 
@@ -300,6 +314,18 @@ Middleman is a static site generator using all the shortcuts and tools in modern
 **Open source:** [yes](https://github.com/middleman/middleman)
 
 **Website:** http://middlemanapp.com/
+
+### Nanote
+
+Nanote simple flat-file blog script, GPL v.3
+
+**Technology:** PHP
+
+**Templating:** HTML
+
+**Formatting:** HTML
+
+**Open source:** [yes](https://github.com/muhas/nanote)
 
 ### Nesta
 
@@ -399,9 +425,25 @@ Small, Simple Content Managment
 
 **Latest:** 4.7.3 2014-12-08 https://github.com/pluck-cms/pluck/releases
 
+## Pulse CMS
+
+Flat file CMS
+
+**Technology:** PHP
+
+**Templating:** PHP
+
+**Formatting:** HTML and Markdown
+
+**Open source:** no
+
+**Website:** http://www.pulsecms.com/
+
+**Latest:** 4.5 2015-09-13 http://www.pulsecms.com/blog
+
 ### Razor CMS
 
- razorCMS is a File Based Content Management System. All data in razorCMS is stored in flat files, and uses a &ldquo;database&rdquo; engine called razorDB.
+razorCMS is a File Based Content Management System. All data in razorCMS is stored in flat files, and uses a &ldquo;database&rdquo; engine called razorDB.
 
 **Technology:** PHP
 
@@ -441,19 +483,31 @@ An entirely new kind of CMS. Pack up your content, markup, and style. Leave the 
 
 **Website:** http://statamic.com/
 
-### Vestibulum
+### Sphido
 
-Vestibulum is deathly simple, ultra fast, flat file (Markdown, HTML) CMS. Fully customizable with Twig templates
+Sphido is a rocket fast, simple, lightweight, easy to hack, flat file CMS for PHP. Supports Markdown and HTML content with Latte template engine.
 
 **Technology:** PHP
 
-**Templating:** Twig / HTML / PHP
+**Templating:** Latte / PHTML
 
-**Formatting:** Markdown / HTML
+**Formatting:** Latte / Markdown / HTML
 
-**Open source:** [yes](https://github.com/OzzyCzech/vestibulum)
+**Open source:** [yes](https://github.com/sphido/cms)
 
-**Website:** http://vestibulum.omdesign.cz/
+**Website:** http://www.sphido.org/
+
+### Vodka
+
+Simple and tiny PHP flat-file site engine.
+
+**Technology:** PHP
+
+**Templating:** HTML / PHP
+
+**Formatting:** HTML
+
+**Open source:** [yes](https://github.com/deseven/vodka)
 
 ### Wintersmith
 
