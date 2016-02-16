@@ -155,7 +155,7 @@ no database CMS, written in PHP, supports themes, soon plugins, and flexible tax
 
 **Formatting:** HTML with WYSIWYG editor
 
-**Open source:** yes
+**Open source:** [yes](https://github.com/samthomson/flot/)
 
 **Website:** http://flotcms.com
 
