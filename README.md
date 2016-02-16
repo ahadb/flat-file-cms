@@ -187,6 +187,20 @@ In a nutshell, installing Grav is a matter of unzipping the file. It is fast, ha
 
 **Website:** http://getgrav.org/
 
+### Hexo
+
+A fast simple, blog and framework
+
+**Technology:** Node
+
+**Templating:** Jade
+
+**Formatting:** Markdown
+
+**Open source:** [yes](https://github.com/hexojs/hexo)
+
+**Website:** https://hexo.io/
+
 ### Herbie
 
 Herbie is a CMS and blog system based on simple text files. Composer support - simple installation - no database - just text files.
