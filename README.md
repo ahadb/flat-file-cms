@@ -273,6 +273,20 @@ Kirby is a file-based CMS. Easy to setup, easy to use, flexible as hell
 
 **Website:** http://getkirby.com/
 
+### MetalSmith
+
+An extremely simple, pluggable static site generator
+
+**Technology:** Node
+
+**Templating:** Unopinionated
+
+**Formatting:** Markdown
+
+**Open source:** [yes](https://github.com/metalsmith/metalsmith)
+
+**Website:** http://www.metalsmith.io/
+
 ### Mecha
 
 Mecha is a file&ndash;based CMS. It does not require any database. Almost all files are stored as plain text files which grouped into folders, which you can even edit it manually through a plain text editor application.
@@ -512,6 +526,20 @@ Sphido is a rocket fast, simple, lightweight, easy to hack, flat file CMS for PH
 **Open source:** [yes](https://github.com/sphido/cms)
 
 **Website:** http://www.sphido.org/
+
+### Urubu
+
+A micro CMS for static websites
+
+**Technology:** Python
+
+**Templating:** Jinja
+
+**Formatting:** Markdown
+
+**Open source:** [yes](https://github.com/jandecaluwe/urubu)
+
+**Website:** http://urubu.jandecaluwe.com/
 
 ### Vodka
 
