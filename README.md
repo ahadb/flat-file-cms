@@ -473,7 +473,7 @@ Flat file CMS
 
 ## Puppy CMS
 
-Flat file, SEO friendly CMS
+puppyCMS - flat file, responsive, seo-friendly, lightweight and tiny CMS.
 
 **Technology:** PHP
 
@@ -483,7 +483,7 @@ Flat file, SEO friendly CMS
 
 **Open source:** [yes](https://github.com/choregus/puppyCMS)
 
-**Website:** http://puppycms.com/
+**Website:** http://puppycms.com
 
 **Latest:** 1.6 http://puppycms.com/download
 
