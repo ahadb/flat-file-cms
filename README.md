@@ -471,6 +471,22 @@ Flat file CMS
 
 **Latest:** 4.5 2015-09-13 http://www.pulsecms.com/blog
 
+## Puppy CMS
+
+puppyCMS - flat file, responsive, seo-friendly, lightweight and tiny CMS.
+
+**Technology:** PHP
+
+**Templating:** PHP
+
+**Formatting:** HTML and Markdown
+
+**Open source:** [yes](https://github.com/choregus/puppyCMS)
+
+**Website:** http://puppycms.com
+
+**Latest:** 1.6 http://puppycms.com/download
+
 ### Razor CMS
 
 razorCMS is a File Based Content Management System. All data in razorCMS is stored in flat files, and uses a &ldquo;database&rdquo; engine called razorDB.
