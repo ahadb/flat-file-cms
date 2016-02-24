@@ -29,6 +29,18 @@ This can be a debatable topic, and this small project&rsquo;s aim to is to intro
 
 Personally, I am all for Flat-File CMS&rsquo;s for personal blogs. View them below in alphabetical order:
 
+### alotrop
+
+A tiny flat file cms.
+
+**Technology:** PHP
+
+**Templating:** no
+
+**Formatting:** unknown
+
+**Open source:** [yes](https://github.com/serpent7776/alotrop)
+
 ### Automad
 
 A File-Based &amp; Open Source Content Management System.
