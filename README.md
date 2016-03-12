@@ -543,6 +543,22 @@ Sphido is a rocket fast, simple, lightweight, easy to hack, flat file CMS for PH
 
 **Website:** http://www.sphido.org/
 
+
+### Typesetter
+
+ An Open source CMS written in PHP focused on ease of use with true WYSIWYG editing and flat-file storage.
+ 
+**Technology:** PHP
+
+**Templating:** PHP
+
+**Formatting:** HTML / plain text
+
+**Open source:** [yes](https://github.com/Typesetter/Typesetter)
+
+**Website:** http://www.typesettercms.com
+
+
 ### Urubu
 
 A micro CMS for static websites
