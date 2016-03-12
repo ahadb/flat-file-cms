@@ -449,7 +449,7 @@ Small, Simple Content Managment
 
 **Templating:** PHP
 
-**Open source:** [yes]
+**Open source:** [yes](https://github.com/pluck-cms/pluck)
 
 **Website:** http://www.pluck-cms.org/
 
