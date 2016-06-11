@@ -501,6 +501,20 @@ razorCMS is a File Based Content Management System. All data in razorCMS is stor
 
 **Website:** http://www.razorcms.co.uk/
 
+## Sculpin
+
+PHP static site generator / flat file cms
+
+**Technology:** PHP
+
+**Templating:** Twig
+
+**Formatting:** Markdown
+
+**Open source:** [yes](https://github.com/sculpin/sculpin)
+
+**Website:** https://sculpin.io
+
 ## Singularity
 
 A CMS in a Single PHP File
