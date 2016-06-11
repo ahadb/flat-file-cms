@@ -529,6 +529,20 @@ A CMS in a Single PHP File
 
 **Website:** http://christophersu.net/2012/singularity-cms-single-php-file/
 
+## Sitecake
+
+Simple CMS for your HTML website
+
+**Technology:** PHP
+
+**Templating:** Nil
+
+**Formatting:** HTML
+
+**Open source:** [yes](https://github.com/sitecake)
+
+**Website:** http://sitecake.com/
+
 ## Statamic
 
 An entirely new kind of CMS. Pack up your content, markup, and style. Leave the database behind. Making websites just got fun again.
