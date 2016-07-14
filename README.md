@@ -329,7 +329,7 @@ Simple, lightweight, beginner-friendly and expandable with plugins
 
 **Website:** http://mozilo.de/
 
-**Latest:**  2.0.33 2015-05-18 https://github.com/mozilo/mozilo2.0/commits/master
+**Latest:**  2.0.49 2016-01-17 https://github.com/mozilo/mozilo2.0/commits/master
 
 ## Middleman
 
