@@ -385,6 +385,22 @@ Easy, fast and free Blog system
 
 **Latest:**  4.03 2014-04-01 http://blog.nibbleblog.com/post/nibbleblog-v4.0.3-coffee/
 
+## Orbiter
+
+Simple and extendable PHP tool for publishing beautiful websites out of plain text documents
+
+**Technology:** PHP
+
+**Templating:** Mustache
+
+**Formatting:** Markdown
+
+**Open source:** Yes
+
+**Website:** http://viaorbiter.com/
+
+**Latest:**  https://github.com/kasparsd/orbiter
+
 ## Parvula
 
 Simple CMS for developers, designers and clients with admininistration panel.
