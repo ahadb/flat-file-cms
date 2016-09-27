@@ -684,6 +684,20 @@ No database CMS, plugins, responsive, 100% customizable theme since the administ
 
 **Website:** http://zwiicms.com/
 
+## AjaxCMS 
+
+Client side (browser) based CMS.  Only static files stored on server. Emphasis on background animation and page transitions.
+
+**Technology:** Javascript / Apache
+
+**Templating:** HTML / Bootstrap 
+
+**Formatting:** HTML / Markdown
+
+**Open source:** [yes](https://github.com/bhoult/AjaxCMS)
+
+**Website:** https://ajaxcms.org/
+
 Contributions
 =============
 
