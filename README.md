@@ -701,3 +701,21 @@ Contributions
 =============
 
 Help grow this list &mdash; awesome! Ensure you list a system which is classified as a CMS as opposed to just a static site generator. Thanks for your help!
+
+Open Source Projects
+====================
+
+Below is a list of open source projects and modules that I've created that might be of some use to you:
+
+* [es6](https://github.com/ahadb/es6)
+* [is-type](https://github.com/ahadb/is-type)
+* [first-of-array](https://github.com/ahadb/first-of-array)
+* [last-of-array](https://github.com/ahadb/last-of-array)
+* [node-range](https://github.com/ahadb/node-range)
+* [is-even-integer](https://github.com/ahadb/is-even-integer)
+* [kebab-caseify](https://github.com/ahadb/kebab-caseify)
+* [node-camel-case](https://github.com/ahadb/node-camel-case)
+* [obj-values](https://github.com/ahadb/obj-values)
+
+
+
