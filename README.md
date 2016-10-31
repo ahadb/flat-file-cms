@@ -227,7 +227,7 @@ Herbie is a simple, blog-aware, static site generator. Composer support - simple
 
 **Open source:** [yes](https://github.com/getherbie/herbie)
 
-**Website:** http://getherbie.org/
+**Website:** https://getherbie.org/
 
 ### HTMLy
 
