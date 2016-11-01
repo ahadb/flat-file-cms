@@ -217,17 +217,17 @@ A fast simple, blog and framework
 
 ### Herbie
 
-Herbie is a CMS and blog system based on simple text files. Composer support - simple installation - no database - just text files.
+Herbie is a simple, blog-aware, static site generator. Composer support - simple installation - no database - just text files.
 
-**Technology:** PHP / YAML / Symfony Components
+**Technology:** PHP
 
 **Templating:** Twig
 
-**Formatting:** Markdown / Textile
+**Formatting:** Markdown
 
 **Open source:** [yes](https://github.com/getherbie/herbie)
 
-**Website:** http://getherbie.org/
+**Website:** https://getherbie.org/
 
 ### HTMLy
 
