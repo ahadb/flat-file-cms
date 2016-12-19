@@ -485,7 +485,7 @@ Small, Simple Content Managment
 
 **Latest:** 4.7.3 2014-12-08 https://github.com/pluck-cms/pluck/releases
 
-### Pluck CMS
+### Pulse CMS
 
 Flat file CMS
 
