@@ -708,6 +708,7 @@ Open Source Projects
 Below is a list of open source projects and modules that I've created that might be of some use to you:
 
 * [es6](https://github.com/ahadb/es6)
+* [JavaScript Patterns](https://github.com/ahadb/javascript-patterns)
 * [is-type](https://github.com/ahadb/is-type)
 * [first-of-array](https://github.com/ahadb/first-of-array)
 * [last-of-array](https://github.com/ahadb/last-of-array)
