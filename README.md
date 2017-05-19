@@ -681,6 +681,8 @@ Yellow is for people who make websites.
 
 **Open source:** [yes](https://github.com/datenstrom/yellow)
 
+**Multi language:** [yes](https://developers.datenstrom.se/help/language-configuration)
+
 **Website:** http://datenstrom.se/yellow/
 
 ### ZwiiCMS
