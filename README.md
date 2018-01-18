@@ -89,6 +89,22 @@ Create your own Blog in seconds, Fast, Simple, Extensible and Flat-file CMS.
 
 **Latest:** 0.5 2015-11-01 http://forum.bludit.com/
 
+### Cuttlebelle
+
+The react static site generator that separates editing and code concerns
+
+**Technology:** NodeJS
+
+**Templating:** ReactJS
+
+**Formatting:** Markdown and YAML
+
+**Open source:** Yes
+
+**Website:** [https://cuttlebelle.com](https://cuttlebelle.com/)
+
+**Latest:** 1.0.0-alpha.44 2017-01-19 https://cuttlebelle.com
+
 ### Dodger CMS
 
 DodgerCMS is a static markdown CMS built on top of Amazon S3.
