@@ -541,9 +541,23 @@ PHP static site generator / flat file cms
 
 **Formatting:** Markdown
 
-**Open source:** [yes](https://github.com/sculpin/sculpin)
+**Open source:** no
 
 **Website:** https://sculpin.io
+
+### SingleCMS
+
+Single File CMS with <5 minute setup and user management
+
+**Technology:** PHP
+
+**Templating:** Nil
+
+**Formatting:** Inline
+
+**Open source:** no
+
+**Website:** https://singlecms.com
 
 ### Singularity
 
