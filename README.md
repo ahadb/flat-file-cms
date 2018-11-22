@@ -175,6 +175,20 @@ FlatPress is a blogging engine that saves your posts as simple text files.
 
 **Website:** http://flatpress.org/home/
 
+### Flextype
+
+Modern Open Source Flat-File Content Management System
+
+Technology: PHP
+
+Templating: PHP
+
+Formatting: HTML / Text / Markdown
+
+Open source: yes
+
+Website: http://flextype.org
+
 ### Flot
 
 no database CMS, written in PHP, supports themes, soon plugins, and flexible taxonomies (data types). Hybrid static/dynamic CMS that&rsquo;s cached by default. Runs on anything with PHP. Still being developed, but has a good base of features.
