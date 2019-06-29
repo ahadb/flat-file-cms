@@ -529,7 +529,7 @@ Flat file CMS
 
 **Website:** http://www.pulsecms.com/
 
-**Latest:** 4.5 2015-09-13 http://www.pulsecms.com/blog
+**Latest:** 5.3 2019-03-02 https://forum.pulsecms.com/t/pulse-5-3-is-here/1369
 
 ### Puppy CMS
 
