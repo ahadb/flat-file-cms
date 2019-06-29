@@ -345,20 +345,6 @@ Mecha is a file&ndash;based CMS. It does not require any database. Almost all fi
 
 **Website:** http://mecha-cms.com/
 
-### Monstra
-
-An entirely new kind of CMS. Pack up your content, markup, and style. Leave the database behind. Making websites just got fun again.
-
-**Technology:** PHP
-
-**Templating:** Built in
-
-**Formatting:** Markdown / HTML
-
-**Open source:** [yes](https://github.com/monstra-cms/monstra)
-
-**Website:** http://monstra.org
-
 ### Mozilo
 
 Simple, lightweight, beginner-friendly and expandable with plugins
