@@ -179,15 +179,15 @@ FlatPress is a blogging engine that saves your posts as simple text files.
 
 Modern Open Source Flat-File Content Management System
 
-Technology: PHP
+**Technology:** PHP / JSON
 
-Templating: PHP
+**Templating:** Twig
 
-Formatting: HTML / Text / Markdown
+**Formatting:** HTML / Text / Markdown
 
-Open source: yes
+**Open source:** yes
 
-Website: http://flextype.org
+**Website:** http://flextype.org
 
 ### Flot
 
