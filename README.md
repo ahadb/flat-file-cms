@@ -133,20 +133,6 @@ Dropplets is a minimalist, databaseless Markdown blogging platform.
 
 **Website:** http://dropplets.com/
 
-### Fansoro
-
-Fansoro is Modern Open Source File-Based Content Management System.
-
-**Technology:** PHP
-
-**Templating:** Fenom
-
-**Formatting:** Markdown
-
-**Open source:** [yes](https://github.com/fansoro/fansoro)
-
-**Website:** http://fansoro.org
-
 ### Feindura
 
 Flat File CMS for designers
