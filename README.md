@@ -471,7 +471,7 @@ A stupidly simple & blazing fast, flat file CMS.
 
 **Open source:** [yes](https://github.com/picocms/Pico)
 
-**Website:** http://pico.dev7studios.com/index.html
+**Website:** http://picocms.org/
 
 ### Pluck CMS
 
