@@ -617,6 +617,20 @@ Sphido is a rocket fast, simple, lightweight, easy to hack, flat file CMS for PH
 
 **Website:** http://www.sphido.org/
 
+### Typemill
+
+Typemill is a modern and author friendly flat file cms (PHP/Vue.js) for documentations, manuals, web-novels and similar publications. It provides a modern visual markdown editor (vue) and an easy page organisation with drag & drop.
+
+**Technology:** PHP/VUE.js
+
+**Templating:** Twig
+
+**Formatting:** Markdown
+
+**Open source:** [yes](https://github.com/typemill/typemill)
+
+**Website:** https://www.typemill.net
+
 ### Typesetter
 
  An Open source CMS written in PHP focused on ease of use with true WYSIWYG editing and flat-file storage.
