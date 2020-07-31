@@ -163,17 +163,17 @@ FlatPress is a blogging engine that saves your posts as simple text files.
 
 ### Flextype
 
-Modern Open Source Flat-File Content Management System
+Flextype is an open-source self-hosted Data-First Headless CMS & API. 
 
-**Technology:** PHP / JSON
+**Technology:** PHP / YAML / JSON
 
 **Templating:** Twig
 
-**Formatting:** HTML / Text / Markdown
+**Formatting:** HTML / Text / Markdown / Shortcodes
 
 **Open source:** yes
 
-**Website:** http://flextype.org
+**Website:** https://flextype.org
 
 ### Flot
 
