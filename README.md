@@ -29,7 +29,7 @@ This can be a debatable topic, and this small project&rsquo;s aim to is to intro
 
 Personally, I am all for Flat-File CMS&rsquo;s for personal blogs. View them below in alphabetical order:
 
-### AjaxCMS 
+## AjaxCMS 
 
 Client side (browser) based CMS.  Only static files stored on server. Emphasis on background animation and page transitions.
 
@@ -43,7 +43,7 @@ Client side (browser) based CMS.  Only static files stored on server. Emphasis o
 
 **Website:** https://ajaxcms.org/
 
-### Automad
+## Automad
 
 A File-Based &amp; Open Source Content Management System.
 
@@ -59,7 +59,7 @@ A File-Based &amp; Open Source Content Management System.
 
 **Latest:** http://automad.org/release-notes
 
-### Baun
+## Baun
 
 A modern, lightweight, extensible CMS for PHP.
 
@@ -73,7 +73,7 @@ A modern, lightweight, extensible CMS for PHP.
 
 **Website:** [http://bauncms.com](http://bauncms.com/)
 
-### Bludit
+## Bludit
 
 Create your own Blog in seconds, Fast, Simple, Extensible and Flat-file CMS.
 
@@ -89,7 +89,7 @@ Create your own Blog in seconds, Fast, Simple, Extensible and Flat-file CMS.
 
 **Latest:** 0.5 2015-11-01 http://forum.bludit.com/
 
-### Cuttlebelle
+## Cuttlebelle
 
 The react static site generator that separates editing and code concerns
 
@@ -105,7 +105,7 @@ The react static site generator that separates editing and code concerns
 
 **Latest:** 1.0.0-alpha.44 2017-01-19 https://cuttlebelle.com
 
-### Dodger CMS
+## Dodger CMS
 
 DodgerCMS is a static markdown CMS built on top of Amazon S3.
 
@@ -119,7 +119,7 @@ DodgerCMS is a static markdown CMS built on top of Amazon S3.
 
 **Website:** http://dodgercms.com/
 
-### Dropplets
+## Dropplets
 
 Dropplets is a minimalist, databaseless Markdown blogging platform.
 
@@ -133,7 +133,7 @@ Dropplets is a minimalist, databaseless Markdown blogging platform.
 
 **Website:** http://dropplets.com/
 
-### Feindura
+## Feindura
 
 Flat File CMS for designers
 
@@ -147,7 +147,7 @@ Flat File CMS for designers
 
 **Website:** http://feindura.org/
 
-### Flat Press
+## Flat Press
 
 FlatPress is a blogging engine that saves your posts as simple text files.
 
@@ -161,7 +161,7 @@ FlatPress is a blogging engine that saves your posts as simple text files.
 
 **Website:** http://flatpress.org/home/
 
-### Flextype
+## Flextype
 
 Flextype is an open-source Hybrid Content Management System with the freedom of a headless CMS and with the full functionality of a traditional CMS.
 
@@ -175,7 +175,7 @@ Flextype is an open-source Hybrid Content Management System with the freedom of 
 
 **Website:** https://flextype.org
 
-### Flot
+## Flot
 
 no database CMS, written in PHP, supports themes, soon plugins, and flexible taxonomies (data types). Hybrid static/dynamic CMS that&rsquo;s cached by default. Runs on anything with PHP. Still being developed, but has a good base of features.
 
@@ -189,7 +189,7 @@ no database CMS, written in PHP, supports themes, soon plugins, and flexible tax
 
 **Website:** https://github.com/samthomson/flot/
 
-### Get Simple CMS
+## Get Simple CMS
 
 GetSimple is an XML based, stand-a-alone, fully independant and lite Content Management System.
 
@@ -203,7 +203,7 @@ GetSimple is an XML based, stand-a-alone, fully independant and lite Content Man
 
 **Website:** http://get-simple.info/
 
-### Grav
+## Grav
 
 In a nutshell, installing Grav is a matter of unzipping the file. It is fast, has sophisticated caching, and a light footprint for optimal performance.
 
@@ -217,7 +217,7 @@ In a nutshell, installing Grav is a matter of unzipping the file. It is fast, ha
 
 **Website:** http://getgrav.org/
 
-### Hexo
+## Hexo
 
 A fast simple, blog and framework
 
@@ -231,7 +231,7 @@ A fast simple, blog and framework
 
 **Website:** https://hexo.io/
 
-### Herbie
+## Herbie
 
 Herbie is a simple, blog-aware, static site generator. Composer support - simple installation - no database - just text files.
 
@@ -245,7 +245,7 @@ Herbie is a simple, blog-aware, static site generator. Composer support - simple
 
 **Website:** https://getherbie.org/
 
-### HTMLy
+## HTMLy
 
 HTMLy is an open source databaseless blogging platform that prioritizes simplicity and speed (Flat-File Blog). HTMLy can be referred to as a Flat-File CMS, since it will also manage your content.
 
@@ -261,7 +261,7 @@ You do not need to use a VPS to run HTMLy, shared hosting or even free hosting s
 
 **Website:** https://demo.htmly.com/
 
-### Hugo
+## Hugo
 
 Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator.
 
@@ -275,7 +275,7 @@ Hugo is a general-purpose website framework. Technically speaking, Hugo is a sta
 
 **Website:** http://gohugo.io/
 
-### Jekyll
+## Jekyll
 
 Transform your plain text into static websites and blogs.
 
@@ -289,7 +289,7 @@ Transform your plain text into static websites and blogs.
 
 **Website:** http://jekyllrb.com/
 
-### Kirby
+## Kirby
 
 Kirby is a file-based CMS. Easy to setup, easy to use, flexible as hell
 
@@ -303,7 +303,7 @@ Kirby is a file-based CMS. Easy to setup, easy to use, flexible as hell
 
 **Website:** http://getkirby.com/
 
-### MetalSmith
+## MetalSmith
 
 An extremely simple, pluggable static site generator
 
@@ -317,7 +317,7 @@ An extremely simple, pluggable static site generator
 
 **Website:** http://www.metalsmith.io/
 
-### Mecha
+## Mecha
 
 Mecha is a file&ndash;based CMS. It does not require any database. Almost all files are stored as plain text files which grouped into folders, which you can even edit it manually through a plain text editor application.
 
@@ -331,7 +331,7 @@ Mecha is a file&ndash;based CMS. It does not require any database. Almost all fi
 
 **Website:** http://mecha-cms.com/
 
-### Mozilo
+## Mozilo
 
 Simple, lightweight, beginner-friendly and expandable with plugins
 
@@ -347,7 +347,7 @@ Simple, lightweight, beginner-friendly and expandable with plugins
 
 **Latest:**  2.0.49 2016-01-17 https://github.com/mozilo/mozilo2.0/commits/master
 
-### Middleman
+## Middleman
 
 Middleman is a static site generator using all the shortcuts and tools in modern web development
 
@@ -361,7 +361,7 @@ Middleman is a static site generator using all the shortcuts and tools in modern
 
 **Website:** http://middlemanapp.com/
 
-### Nanote
+## Nanote
 
 Nanote simple flat-file blog script, GPL v.3
 
@@ -373,7 +373,7 @@ Nanote simple flat-file blog script, GPL v.3
 
 **Open source:** [yes](https://github.com/muhas/nanote)
 
-### Nesta
+## Nesta
 
 A Ruby CMS for developers and designers. With simple code that&rsquo;s easy to follow, Nesta is easily extended using the Sinatra web framework.
 
@@ -387,7 +387,7 @@ A Ruby CMS for developers and designers. With simple code that&rsquo;s easy to f
 
 **Website:** http://nestacms.com/
 
-### Nibbleblog
+## Nibbleblog
 
 Easy, fast and free Blog system
 
@@ -401,7 +401,7 @@ Easy, fast and free Blog system
 
 **Latest:**  4.03 2014-04-01 http://blog.nibbleblog.com/post/nibbleblog-v4.0.3-coffee/
 
-### Orbiter
+## Orbiter
 
 Simple and extendable PHP tool for publishing beautiful websites out of plain text documents
 
@@ -417,7 +417,7 @@ Simple and extendable PHP tool for publishing beautiful websites out of plain te
 
 **Latest:**  https://github.com/kasparsd/orbiter
 
-### Parvula
+## Parvula
 
 Simple CMS for developers, designers and clients with admininistration panel.
 
@@ -431,7 +431,7 @@ Simple CMS for developers, designers and clients with admininistration panel.
 
 **Website:** https://github.com/BafS/parvula
 
-### PluXML
+## PluXML
 
 PluXML is a free, open-source, self-hosted CMS platform where data are stored by using XML files. This system is used to be a blog one, but pages feature allows to code some php inside the backend. Many plugins extend its functionnalities.
 
@@ -445,7 +445,7 @@ PluXML is a free, open-source, self-hosted CMS platform where data are stored by
 
 **Website:** http://www.pluxml.org/
 
-### Phile CMS
+## Phile CMS
 
 A Markdown File Based CMS
 
@@ -459,7 +459,7 @@ A Markdown File Based CMS
 
 **Website:** http://philecms.github.io/Phile/
 
-### Pico
+## Pico
 
 A stupidly simple & blazing fast, flat file CMS.
 
@@ -473,7 +473,7 @@ A stupidly simple & blazing fast, flat file CMS.
 
 **Website:** http://picocms.org/
 
-### Pluck CMS
+## Pluck CMS
 
 Small, Simple Content Managment
 
@@ -487,7 +487,7 @@ Small, Simple Content Managment
 
 **Latest:** 4.7.3 2014-12-08 https://github.com/pluck-cms/pluck/releases
 
-### Pulse CMS
+## Pulse CMS
 
 Flat file CMS
 
@@ -503,7 +503,7 @@ Flat file CMS
 
 **Latest:** 5.3 2019-03-02 https://forum.pulsecms.com/t/pulse-5-3-is-here/1369
 
-### Puppy CMS
+## Puppy CMS
 
 puppyCMS - flat file, responsive, seo-friendly, lightweight and tiny CMS.
 
@@ -519,7 +519,7 @@ puppyCMS - flat file, responsive, seo-friendly, lightweight and tiny CMS.
 
 **Latest:** 1.6 http://puppycms.com/download
 
-### Razor CMS
+## Razor CMS
 
 razorCMS is a File Based Content Management System. All data in razorCMS is stored in flat files, and uses a &ldquo;database&rdquo; engine called razorDB.
 
@@ -533,7 +533,7 @@ razorCMS is a File Based Content Management System. All data in razorCMS is stor
 
 **Website:** http://www.razorcms.co.uk/
 
-### Sculpin
+## Sculpin
 
 PHP static site generator / flat file cms
 
@@ -547,7 +547,7 @@ PHP static site generator / flat file cms
 
 **Website:** https://sculpin.io
 
-### SingleCMS
+## SingleCMS
 
 Single File CMS with <5 minute setup and user management
 
@@ -561,7 +561,7 @@ Single File CMS with <5 minute setup and user management
 
 **Website:** https://singlecms.com
 
-### Singularity
+## Singularity
 
 A CMS in a Single PHP File
 
@@ -575,7 +575,7 @@ A CMS in a Single PHP File
 
 **Website:** http://christophersu.net/2012/singularity-cms-single-php-file/
 
-### Sitecake
+## Sitecake
 
 Simple CMS for your HTML website
 
@@ -589,7 +589,7 @@ Simple CMS for your HTML website
 
 **Website:** http://sitecake.com/
 
-### Statamic
+## Statamic
 
 An entirely new kind of CMS. Pack up your content, markup, and style. Leave the database behind. Making websites just got fun again.
 
@@ -603,7 +603,7 @@ An entirely new kind of CMS. Pack up your content, markup, and style. Leave the 
 
 **Website:** http://statamic.com/
 
-### Sphido
+## Sphido
 
 Sphido is a rocket fast, simple, lightweight, easy to hack, flat file CMS for PHP. Supports Markdown and HTML content with Latte template engine.
 
@@ -617,7 +617,7 @@ Sphido is a rocket fast, simple, lightweight, easy to hack, flat file CMS for PH
 
 **Website:** http://www.sphido.org/
 
-### Typemill
+## Typemill
 
 Typemill is a modern and author friendly flat file cms (PHP/Vue.js) for documentations, manuals, web-novels and similar publications. It provides a modern visual markdown editor (vue) and an easy page organisation with drag & drop.
 
@@ -631,7 +631,7 @@ Typemill is a modern and author friendly flat file cms (PHP/Vue.js) for document
 
 **Website:** https://www.typemill.net
 
-### Typesetter
+## Typesetter
 
  An Open source CMS written in PHP focused on ease of use with true WYSIWYG editing and flat-file storage.
  
@@ -645,7 +645,7 @@ Typemill is a modern and author friendly flat file cms (PHP/Vue.js) for document
 
 **Website:** http://www.typesettercms.com
 
-### Urubu
+## Urubu
 
 A micro CMS for static websites
 
@@ -659,7 +659,7 @@ A micro CMS for static websites
 
 **Website:** http://urubu.jandecaluwe.com/
 
-### Vodka
+## Vodka
 
 Simple and tiny PHP flat-file site engine.
 
@@ -671,7 +671,7 @@ Simple and tiny PHP flat-file site engine.
 
 **Open source:** [yes](https://github.com/deseven/vodka)
 
-### Wintersmith
+## Wintersmith
 
 Flexible, minimalistic, multi-platform static site generator built on top of node.js.
 
@@ -685,7 +685,7 @@ Flexible, minimalistic, multi-platform static site generator built on top of nod
 
 **Website:** http://wintersmith.io/
 
-### WonderCMS
+## WonderCMS
 
 WonderCMS is a simple, secure flat file CMS
 
@@ -699,7 +699,7 @@ WonderCMS is a simple, secure flat file CMS
 
 **Website:** http://wondercms.com/
 
-### Yellow
+## Yellow
 
 Yellow is for people who make websites.
 
@@ -713,7 +713,7 @@ Yellow is for people who make websites.
 
 **Website:** http://datenstrom.se/yellow/
 
-### ZwiiCMS
+## ZwiiCMS
 
 No database CMS, plugins, responsive, 100% customizable theme since the administration without HTML/CSS.
 
@@ -731,22 +731,6 @@ Contributions
 =============
 
 Help grow this list &mdash; awesome! Ensure you list a system which is classified as a CMS as opposed to just a static site generator. Thanks for your help!
-
-Open Source Projects
-====================
-
-Below is a list of open source projects and modules that I've created that might be of some use to you:
-
-* [es6](https://github.com/ahadb/es6)
-* [JavaScript Patterns](https://github.com/ahadb/javascript-patterns)
-* [is-type](https://github.com/ahadb/is-type)
-* [first-of-array](https://github.com/ahadb/first-of-array)
-* [last-of-array](https://github.com/ahadb/last-of-array)
-* [node-range](https://github.com/ahadb/node-range)
-* [is-even-integer](https://github.com/ahadb/is-even-integer)
-* [kebab-caseify](https://github.com/ahadb/kebab-caseify)
-* [node-camel-case](https://github.com/ahadb/node-camel-case)
-* [obj-values](https://github.com/ahadb/obj-values)
 
 
 
