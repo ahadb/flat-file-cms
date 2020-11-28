@@ -105,6 +105,20 @@ The react static site generator that separates editing and code concerns
 
 **Latest:** 1.0.0-alpha.44 2017-01-19 https://cuttlebelle.com
 
+## Datenstrom Yellow
+
+Datenstrom Yellow is for people who make small websites.
+
+**Technology:** PHP
+
+**Templating:** HTML / PHP
+
+**Formatting:** Markdown
+
+**Open source:** [yes](https://github.com/datenstrom/yellow)
+
+**Website:** http://datenstrom.se/yellow/
+
 ## Dodger CMS
 
 DodgerCMS is a static markdown CMS built on top of Amazon S3.
@@ -698,20 +712,6 @@ WonderCMS is a simple, secure flat file CMS
 **Open source:** [yes](https://github.com/robiso/wondercms)
 
 **Website:** http://wondercms.com/
-
-## Yellow
-
-Yellow is for people who make websites.
-
-**Technology:** PHP
-
-**Templating:** HTML / PHP
-
-**Formatting:** Markdown
-
-**Open source:** [yes](https://github.com/datenstrom/yellow)
-
-**Website:** http://datenstrom.se/yellow/
 
 ## ZwiiCMS
 
