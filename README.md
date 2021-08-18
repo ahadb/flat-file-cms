@@ -117,7 +117,7 @@ Datenstrom Yellow is for people who make small websites.
 
 **Open source:** [yes](https://github.com/datenstrom/yellow)
 
-**Website:** http://datenstrom.se/yellow/
+**Website:** http://datenstrom.se/yellow/puppy
 
 ## Dodger CMS
 
@@ -516,22 +516,6 @@ Flat file CMS
 **Website:** http://www.pulsecms.com/
 
 **Latest:** 5.3 2019-03-02 https://forum.pulsecms.com/t/pulse-5-3-is-here/1369
-
-## Puppy CMS
-
-puppyCMS - flat file, responsive, seo-friendly, lightweight and tiny CMS.
-
-**Technology:** PHP
-
-**Templating:** PHP
-
-**Formatting:** HTML and Markdown
-
-**Open source:** [yes](https://github.com/choregus/puppyCMS)
-
-**Website:** http://puppycms.com
-
-**Latest:** 1.6 http://puppycms.com/download
 
 ## Razor CMS
 
