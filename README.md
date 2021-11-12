@@ -115,7 +115,7 @@ Datenstrom Yellow is for people who make small websites.
 
 **Formatting:** Markdown
 
-**Open source:** [yes](https://datenstrom.se/yellow/)
+**Open source:** [yes](https://github.com/datenstrom/yellow)
 
 **Website:** https://datenstrom.se/yellow/
 
