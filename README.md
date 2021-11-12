@@ -115,9 +115,9 @@ Datenstrom Yellow is for people who make small websites.
 
 **Formatting:** Markdown
 
-**Open source:** [yes](https://github.com/datenstrom/yellow)
+**Open source:** [yes](https://datenstrom.se/yellow/)
 
-**Website:** http://datenstrom.se/yellow/puppy
+**Website:** https://datenstrom.se/yellow/
 
 ## Dodger CMS
 
