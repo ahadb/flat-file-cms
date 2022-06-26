@@ -603,17 +603,18 @@ An entirely new kind of CMS. Pack up your content, markup, and style. Leave the 
 
 ## Sphido
 
-Sphido is a rocket fast, simple, lightweight, easy to hack, flat file CMS for PHP. Supports Markdown and HTML content with Latte template engine.
+A rocket rocket fast, light-weight and flexible static site generator. Basically, it's just two functions
+that allow you to process HTML or Markdown files into static pages.
 
-**Technology:** PHP
+**Technology:** NodeJs
 
-**Templating:** Latte / PHTML
+**Templating:** Vanilla JS / anything else
 
-**Formatting:** Latte / Markdown / HTML
+**Formatting:** Markdown, HTML
 
-**Open source:** [yes](https://github.com/sphido/cms)
+**Open source:** [yes](https://github.com/sphido/sphido)
 
-**Website:** http://www.sphido.org/
+**Website:** https://sphido.org/
 
 ## Typemill
 
