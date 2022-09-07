@@ -187,7 +187,7 @@ Flextype is an open-source Hybrid Content Management System with the freedom of 
 
 **Open source:** yes
 
-**Website:** https://flextype.org
+**Website:** https://awilum.github.io/flextype
 
 ## Flot
 
