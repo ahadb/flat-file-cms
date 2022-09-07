@@ -89,6 +89,20 @@ Create your own Blog in seconds, Fast, Simple, Extensible and Flat-file CMS.
 
 **Latest:** 0.5 2015-11-01 http://forum.bludit.com/
 
+## BoidCMS
+
+BoidCMS is a free and open-source flat file CMS for building simple websites and blogs in seconds, developed using PHP and uses JSON as a database.
+
+**Technology:** PHP / JSON
+
+**Templating:** HTML / PHP
+
+**Formatting:** HTML
+
+**Open source:** [yes](https://github.com/BoidCMS/BoidCMS)
+
+**Website:** https://boidcms.github.io
+
 ## Cuttlebelle
 
 The react static site generator that separates editing and code concerns
