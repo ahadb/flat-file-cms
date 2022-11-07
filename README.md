@@ -259,19 +259,19 @@ A fast simple, blog and framework
 
 **Website:** https://hexo.io/
 
-## Herbie
+## Herbie CMS
 
-Herbie is a simple, blog-aware, static site generator. Composer support - simple installation - no database - just text files.
+Herbie CMS is a simple, fast and highly customizable flat-file Content Management System powered by PHP, Twig, Markdown, Textile, reStructuredText and other human-readable text files. Create small but fully functional websites or blogs in no time and with little effort.
 
 **Technology:** PHP
 
 **Templating:** Twig
 
-**Formatting:** Markdown
+**Formatting:** Markdown, Textile, reStructuredText
 
 **Open source:** [yes](https://github.com/getherbie/herbie)
 
-**Website:** https://getherbie.org/
+**Website:** https://herbie.tebe.ch/
 
 ## HTMLy
 
