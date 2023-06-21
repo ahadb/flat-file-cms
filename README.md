@@ -459,6 +459,22 @@ Simple CMS for developers, designers and clients with admininistration panel.
 
 **Website:** https://github.com/BafS/parvula
 
+## Pelican
+
+Pelican is an open source static site generator / CMS that requires no database or server-side logic. 
+
+**Technology:** Python
+
+**Templating:** Jinja
+
+**Formatting:** Markdown or HTML
+
+**Open source:** [yes](https://github.com/getpelican/pelican/blob/master/LICENSE)
+
+**Website:** https://getpelican.com/
+
+
+
 ## PluXML
 
 PluXML is a free, open-source, self-hosted CMS platform where data are stored by using XML files. This system is used to be a blog one, but pages feature allows to code some php inside the backend. Many plugins extend its functionnalities.
