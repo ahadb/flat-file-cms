@@ -105,7 +105,7 @@ BoidCMS is a free and open-source flat file CMS for building simple websites and
 
 ## CMS
 
-The react static site generator that separates editing and code concerns
+Relativ new flat file cms based on java.
 
 **Technology:** Java / JavaScript
 
@@ -115,9 +115,9 @@ The react static site generator that separates editing and code concerns
 
 **Open source:** Yes
 
-**Website:** [https://github.com/thmarx/cms]([https://cuttlebelle.com](https://github.com/thmarx/cms)/)
+**Website:** [https://github.com/thmarx/cms](https://github.com/thmarx/cms)
 
-**Latest:** 2.1.0 2023-10-30 [https://cuttlebelle.com](https://github.com/thmarx/cms)
+**Latest:** 2.1.0 2023-10-30 [https://github.com/thmarx/cms](https://github.com/thmarx/cms)
 
 ## Cuttlebelle
 
