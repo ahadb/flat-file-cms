@@ -758,6 +758,20 @@ No database CMS, plugins, responsive, 100% customizable theme since the administ
 
 **Website:** http://zwiicms.com/
 
+## Decap CMS (netlify cms)
+
+Open source content management with Git workflow and GraphQL. You can use starter templates or setup your own react theme. Little technical but worth it.
+
+**Technology:** Gatsby Js
+
+**Templating:** React
+
+**Formatting:** JSON & React DOM
+
+**Open source:** [yes](https://github.com/decaporg/decap-cms)
+
+**Website:** https://decapcms.org/
+
 Contributions
 =============
 
