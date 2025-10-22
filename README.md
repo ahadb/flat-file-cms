@@ -377,7 +377,7 @@ Mecha is a file&ndash;based CMS. It does not require any database. Almost all fi
 
 ## Mozilo
 
-Simple, lightweight, beginner-friendly and expandable with plugins
+Simple, lightweight, beginner-friendly and expandable with plugins. It is available in teh following languages: de, en, fr, it, pt_br, da, es, pl, nl, hr, ln.
 
 **Technology:** PHP
 
@@ -385,11 +385,11 @@ Simple, lightweight, beginner-friendly and expandable with plugins
 
 **Formatting:** Expandable own syntax
 
-**Open source:** [yes](https://github.com/mozilo/mozilo2.0)
+**Open source:** [yes](https://github.com/moziloDasEinsteigerCMS/mozilo3.0)
 
 **Website:** http://mozilo.de/
 
-**Latest:**  2.0.49 2016-01-17 https://github.com/mozilo/mozilo2.0/commits/master
+**Latest:**  3.0.3 2025-05-26 https://github.com/moziloDasEinsteigerCMS/mozilo3.0
 
 ## Middleman
 
