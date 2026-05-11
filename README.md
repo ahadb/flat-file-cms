@@ -59,6 +59,20 @@ A File-Based &amp; Open Source Content Management System.
 
 **Latest:** http://automad.org/release-notes
 
+## Ava CMS
+
+A fast, flexible, file-based CMS built with modern vanilla PHP.
+
+**Technology:** PHP
+
+**Templating:** HTML/PHP
+
+**Formating:** HTML/Markdown
+
+**Open source:** [yes](https://github.com/avacms/ava/blob/main/LICENSE)
+
+**Website:** [https://ava.addy.zone](https://ava.addy.zone)
+
 ## Baun
 
 A modern, lightweight, extensible CMS for PHP.
