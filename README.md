@@ -591,6 +591,22 @@ razorCMS is a File Based Content Management System. All data in razorCMS is stor
 
 **Website:** http://www.razorcms.co.uk/
 
+## Reveloni CMS
+
+[#reveloni](#reveloni)
+
+Reveloni is a flat-file CMS powered by a single JSON file. No database, no Composer, no npm — upload a ZIP, unpack, and you're live in about a minute. Unlike most flat-file systems, it ships with a friendly admin panel in 20 languages and 16 ready-made graphic themes, so you and your clients manage content visually without touching Markdown or Git. Built for freelancers and small agencies.
+
+**Technology:** PHP / JSON
+
+**Templating:** Built in (16 themes)
+
+**Formatting:** HTML / WYSIWYG editor
+
+**Open source:** no
+
+**Website:** <https://reveloni.com>
+
 ## Sculpin
 
 PHP static site generator / flat file cms
