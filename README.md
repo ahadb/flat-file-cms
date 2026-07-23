@@ -163,6 +163,20 @@ Datenstrom Yellow is for people who make small websites.
 
 **Website:** https://datenstrom.se/yellow/
 
+## deeno
+
+A simple flat-file CMS with no database. Upload. Login. Publish.
+
+**Technology:** PHP
+
+**Templating:** Native PHP
+
+**Formatting:** Markdown
+
+**Open source:** [yes](https://github.com/Streamdoge/deeno)
+
+**Website:** https://deeno.tech
+
 ## Dodger CMS
 
 DodgerCMS is a static markdown CMS built on top of Amazon S3.
