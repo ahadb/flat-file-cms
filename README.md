@@ -133,6 +133,20 @@ Relativ new flat file cms based on java.
 
 **Latest:** 2.1.0 2023-10-30 [https://github.com/thmarx/cms](https://github.com/thmarx/cms)
 
+## CMS Brew
+
+Hosted Git-based CMS for static sites. The client describes the change in chat, the content stays in the repo's Markdown, front matter, JSON, YAML, TOML and HTML files, and every edit lands as a commit. Risky changes are held for the developer to approve.
+
+**Technology:** Hosted service / GitHub or GitLab repository
+
+**Templating:** Your static site generator (Astro, Hugo, Next.js, SvelteKit, Nuxt, Gatsby, Remix, Vue)
+
+**Formatting:** Markdown / HTML / JSON / YAML / TOML
+
+**Open source:** No
+
+**Website:** https://cmsbrew.com/?utm_source=flat-file-cms
+
 ## Cuttlebelle
 
 The react static site generator that separates editing and code concerns
