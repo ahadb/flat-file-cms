@@ -403,7 +403,7 @@ Simple, lightweight, beginner-friendly and expandable with plugins
 
 **Website:** http://mozilo.de/
 
-**Latest:**  2.0.49 2016-01-17 https://github.com/mozilo/mozilo2.0/commits/master
+**Latest:**  3.0.5 2026-08-05 [https://github.com/mozilo/mozilo2.0/commits/master](https://github.com/moziloDasEinsteigerCMS/mozilo3.0/releases)
 
 ## Middleman
 
