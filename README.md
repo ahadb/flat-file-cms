@@ -87,6 +87,20 @@ A modern, lightweight, extensible CMS for PHP.
 
 **Website:** [http://bauncms.com](http://bauncms.com/)
 
+## Birkly
+
+A flexible CMS for humans and AI equally.
+
+**Technology:** PHP
+
+**Templating:** HTML/Birkly/JS
+
+**Formatting:** HTML/WYSIWYG
+
+**Open source:** [yes](https://github.com/Raaakete/Birkly)
+
+**Website:** [https://birkly.io/](https://birkly.io/)
+
 ## Bludit
 
 Create your own Blog in seconds, Fast, Simple, Extensible and Flat-file CMS.
