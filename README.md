@@ -67,7 +67,7 @@ A fast, flexible, file-based CMS built with modern vanilla PHP.
 
 **Templating:** HTML/PHP
 
-**Formating:** HTML/Markdown
+**Formatting:** HTML/Markdown
 
 **Open source:** [yes](https://github.com/avacms/ava/blob/main/LICENSE)
 
@@ -119,11 +119,11 @@ BoidCMS is a free and open-source flat file CMS for building simple websites and
 
 ## CMS
 
-Relativ new flat file cms based on java.
+Relatively new flat file cms based on java.
 
 **Technology:** Java / JavaScript
 
-**Templating:** multiple (Freemarker, Thmyeleaf, Pebble)
+**Templating:** multiple (Freemarker, Thymeleaf, Pebble)
 
 **Formatting:** Markdown
 
